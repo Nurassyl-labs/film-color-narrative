@@ -1,5 +1,7 @@
 # Film Color Narrative: Visualizing the Color DNA and Sentiment of Cinema
 
+![Film Color Narrative Main Screen](assets/screenshots/intro.png)
+
 An interactive web-based data visualization platform that explores the visual and narrative structures of cinema by analyzing movie color profiles ("barcodes") in tandem with dialogue scripts.
 
 This project maps color distributions and transitions across film genres, overlays narrative arcs with script sentiment, and models the relationship between dialogue pace and scene brightness.
@@ -12,9 +14,13 @@ This project maps color distributions and transitions across film genres, overla
 - **Average Genre Palettes**: Aggregated visual profiles for major genres (such as Action, Sci-Fi, Animation, Horror, etc.) calculated using circular mean values in the HSL color space.
 - **Interactive Modals**: Click on any genre card to inspect the dataset of films that contribute to the fingerprint.
 
+![Genre Color Fingerprints](assets/screenshots/explore-avg.png)
+
 ### 2. Time-Dissected Geological Layers
 - **Metric Mode**: Visualizes the proportion of Dark/Medium/Bright, Low/Medium/High Saturation, and Warm/Neutral/Cool tones stacked across different genres.
 - **Original Color Mode**: Quantizes all color barcode pixels of a genre into 25 primary clusters using a median-cut color quantization algorithm, allowing direct comparison of actual genre colors.
+
+![Time-Dissected Geological Layers](assets/screenshots/explore-stack.png)
 
 ### 3. Quantitative Visual Metrics
 - Compares genres across four statistical dimensions:
@@ -23,19 +29,27 @@ This project maps color distributions and transitions across film genres, overla
   - **Average Hue**: Circular mean of the Hue ($H$) channel, rendered on an interactive hue wheel with needle pointers indicating average tone.
   - **Color Variance (Jumpiness)**: The average absolute difference in hue between adjacent timeline frames, illustrating the frequency and intensity of color transistions.
 
+![Quantitative Visual Metrics](assets/screenshots/explore-metrics.png)
+
 ### 4. Color & Narrative Segment Alignment
 - Aligns AI-generated story chapters with corresponding subtitle segments.
 - Displays segment durations, visual average colors, dialogue density, and dialogue sentiment concurrently.
 
+![Color & Narrative Segment Alignment](assets/screenshots/interaction-segments.png)
+
 ### 5. Dialogue Sentiment & Color Correlation
 - **Scatter Plot (Pearson Correlation)**: Graphs dialogue sentiment (positive/negative indices) against scene brightness or saturation, calculating the Pearson correlation coefficient ($r$) dynamically.
 - **Heatmap (Chi-Squared Test)**: Divides variables into category groupings and performs a Chi-squared contingency test to evaluate standard standardized residuals, testing whether visual palettes and screenplay dialog act independently or in correlation.
+
+![Dialogue Sentiment & Color Correlation](assets/screenshots/interaction-emotion.png)
 
 ### 6. Film Color-Emotion Player
 - A canvas-based interactive simulation player.
 - The central orb matches the dominant color of the movie in real-time.
 - Surrounding white particles represent dialogue; they expand outward for positive emotions, contract inward for negative ones, and rotate faster when dialogue is dense.
 - Spacebar controls play/pause; scrubbing is supported by clicking directly on the timeline barcode.
+
+![Film Color-Emotion Player](assets/screenshots/reinterpret-player.png)
 
 ---
 
