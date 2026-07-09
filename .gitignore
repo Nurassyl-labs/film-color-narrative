@@ -1,0 +1,16 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local servers and logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.live-server.json

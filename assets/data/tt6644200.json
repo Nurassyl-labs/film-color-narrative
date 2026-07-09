@@ -1,0 +1,9843 @@
+{
+  "id": "tt6644200",
+  "title": "A Quiet Place",
+  "year": "2018",
+  "genre": "Drama, Horror, Sci-Fi",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg",
+  "rating": "7.5",
+  "runtime": "90",
+  "duration_seconds": 4839.743,
+  "segments": [
+    {
+      "id": 0,
+      "title": "信号与寂静 / Signal & Silence",
+      "start_time": 0.0,
+      "end_time": 529.4285,
+      "summary": "末日第89天，幸存者计划通过无线电发出求救信号。父亲教导孩子保持安静，准备使用特殊设备增强信号。当天色渐暗，纽约邮报的沙沙声打破了致命的寂静，引来致命威胁。",
+      "avg_sentiment": -0.012727272727272726,
+      "dialogue_density": 6.027272727272727,
+      "avg_color": [
+        59,
+        54,
+        46
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 1,
+      "title": "无声求生 / Silent Survival",
+      "start_time": 529.4285,
+      "end_time": 1200.7305000000001,
+      "summary": "灾难第472天，幸存者们必须遵循严格的静默规则才能躲避依靠声音狩猎的盲眼生物。他们得知附近有3只生物，但仍维持基本生活，如简短交流晚餐和感谢，显示即使在绝望中，人类仍保持社交和人性。",
+      "avg_sentiment": -0.006857142857142858,
+      "dialogue_density": 2.9285714285714284,
+      "avg_color": [
+        36,
+        35,
+        27
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 2,
+      "title": "寂静的生存 / Survival in Silence",
+      "start_time": 1200.7305000000001,
+      "end_time": 1627.2935,
+      "summary": "在这个末日后的第473天，角色们讨论人类耳朵的重要性，展示了他们对声音的极度警惕。一次不经意的发声后立即被纠正，体现了在危险环境中生存的艰难。生日日期的提及暗示即使在绝境中，生活仍在寂静中继续。",
+      "avg_sentiment": -0.011818181818181818,
+      "dialogue_density": 1.8181818181818181,
+      "avg_color": [
+        28,
+        25,
+        19
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 3,
+      "title": "生存法则 / Survival Rules",
+      "start_time": 1627.2935,
+      "end_time": 2240.292,
+      "summary": "父母艰难抉择后，决定让孩子留下而自己执行危险任务。在告别之际，他们传授孩子关键生存法则：柔和的声音安全，响亮的声音会引来致命威胁。这既是对孩子独立能力的培养，也是对危险世界的适应训练。",
+      "avg_sentiment": -0.058730158730158716,
+      "dialogue_density": 20.158730158730158,
+      "avg_color": [
+        74,
+        67,
+        49
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 4,
+      "title": "未言之爱 / Unspoken Love",
+      "start_time": 2240.292,
+      "end_time": 2740.486,
+      "summary": "女儿因过去某事件自责而封闭自己，父亲询问母亲是否因此责怪女儿。母亲坦言女儿无法原谅自己，并表示这非任何人过错。父亲仍深爱女儿，母亲建议他向女儿表达这份爱。",
+      "avg_sentiment": -0.008076923076923079,
+      "dialogue_density": 5.019230769230769,
+      "avg_color": [
+        26,
+        26,
+        20
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 5,
+      "title": "母亲的呼唤 / Mother's Call",
+      "start_time": 2740.486,
+      "end_time": 3231.688,
+      "summary": "在危急时刻，父亲鼓励孩子制造巨大噪音以拯救身处险境的母亲。这违背了影片中必须保持安静的基本生存法则，展现了家人间无私的爱与牺牲精神。",
+      "avg_sentiment": -0.025600000000000005,
+      "dialogue_density": 2.56,
+      "avg_color": [
+        10,
+        14,
+        14
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 6,
+      "title": "新生儿与恐惧 / Newborn & Fear",
+      "start_time": 3231.688,
+      "end_time": 3705.9955,
+      "summary": "在怪物横行的世界中，家庭迎来新生儿。父母因无法同时看管所有孩子而自责，特别是父亲无法保护新生儿的愧疚。面对无法保护孩子的无力感，他们坚定承诺要不惜一切代价保护家人，展现了爱与责任在末日环境中的力量。",
+      "avg_sentiment": -0.05938775510204082,
+      "dialogue_density": 20.1734693877551,
+      "avg_color": [
+        12,
+        9,
+        6
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 7,
+      "title": "静默逃离 / Silent Escape",
+      "start_time": 3705.9955,
+      "end_time": 4329.3330000000005,
+      "summary": "角色们在危急中决定必须离开当前位置，围绕是否会有人前来救援产生分歧。他们在极度紧张的情况下保持沉默，随后有人检查他人是否安好，暗示在危险旅程中可能发生了意外。",
+      "avg_sentiment": -0.016153846153846154,
+      "dialogue_density": 4.407692307692308,
+      "avg_color": [
+        5,
+        8,
+        10
+      ],
+      "dominant_emotion": "neutral"
+    },
+    {
+      "id": 8,
+      "title": "生死抉择 / Final Sacrifice",
+      "start_time": 4329.3330000000005,
+      "end_time": 4839.743,
+      "summary": "为寻找生存物资，一家人决定前往卡车。父亲向孩子表达深厚爱意后做出牺牲，孩子们发现敌人的弱点与声音有关，并在卡车上找到医疗用品和隔音材料，为生存创造了条件。",
+      "avg_sentiment": -0.04942307692307692,
+      "dialogue_density": 2.8173076923076925,
+      "avg_color": [
+        19,
+        22,
+        19
+      ],
+      "dominant_emotion": "neutral"
+    }
+  ],
+  "timeline": [
+    {
+      "time": 0.0,
+      "sentiment": 0.0,
+      "barcode_color": [
+        3,
+        0,
+        2
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 320.0,
+      "density": 1.0
+    },
+    {
+      "time": 9.679486,
+      "sentiment": 0.0,
+      "barcode_color": [
+        37,
+        22,
+        16
+      ],
+      "brightness": 10.392156862745098,
+      "saturation": 39.62264150943396,
+      "hue": 17.14285714285714,
+      "density": 1.0
+    },
+    {
+      "time": 19.358972,
+      "sentiment": 0.0,
+      "barcode_color": [
+        104,
+        83,
+        58
+      ],
+      "brightness": 31.76470588235294,
+      "saturation": 28.395061728395067,
+      "hue": 32.60869565217392,
+      "density": 3.0
+    },
+    {
+      "time": 29.038458000000002,
+      "sentiment": 0.0,
+      "barcode_color": [
+        28,
+        10,
+        9
+      ],
+      "brightness": 7.254901960784313,
+      "saturation": 51.35135135135136,
+      "hue": 3.1578947368421053,
+      "density": 3.0
+    },
+    {
+      "time": 38.717944,
+      "sentiment": -0.01,
+      "barcode_color": [
+        134,
+        127,
+        118
+      ],
+      "brightness": 49.411764705882355,
+      "saturation": 6.349206349206349,
+      "hue": 33.749999999999986,
+      "density": 3.0
+    },
+    {
+      "time": 48.39743000000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        118,
+        116,
+        103
+      ],
+      "brightness": 43.333333333333336,
+      "saturation": 6.787330316742082,
+      "hue": 51.99999999999997,
+      "density": 3.0
+    },
+    {
+      "time": 58.076916000000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        3
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 200.0,
+      "density": 3.0
+    },
+    {
+      "time": 67.75640200000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        6,
+        14
+      ],
+      "brightness": 3.3333333333333335,
+      "saturation": 64.70588235294117,
+      "hue": 223.63636363636363,
+      "density": 3.0
+    },
+    {
+      "time": 77.435888,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        16,
+        17
+      ],
+      "brightness": 6.078431372549019,
+      "saturation": 9.67741935483871,
+      "hue": 200.0,
+      "density": 4.0
+    },
+    {
+      "time": 87.115374,
+      "sentiment": 0.01,
+      "barcode_color": [
+        58,
+        61,
+        57
+      ],
+      "brightness": 23.137254901960784,
+      "saturation": 3.389830508474576,
+      "hue": 105.00000000000004,
+      "density": 4.0
+    },
+    {
+      "time": 96.79486000000001,
+      "sentiment": 0.12,
+      "barcode_color": [
+        125,
+        126,
+        117
+      ],
+      "brightness": 47.647058823529406,
+      "saturation": 3.703703703703708,
+      "hue": 66.66666666666673,
+      "density": 4.0
+    },
+    {
+      "time": 106.474346,
+      "sentiment": 0.12,
+      "barcode_color": [
+        66,
+        57,
+        53
+      ],
+      "brightness": 23.333333333333332,
+      "saturation": 10.924369747899162,
+      "hue": 18.461538461538456,
+      "density": 4.0
+    },
+    {
+      "time": 116.15383200000001,
+      "sentiment": 0.11,
+      "barcode_color": [
+        60,
+        51,
+        50
+      ],
+      "brightness": 21.568627450980394,
+      "saturation": 9.09090909090909,
+      "hue": 6.000000000000021,
+      "density": 3.0
+    },
+    {
+      "time": 125.833318,
+      "sentiment": -0.01,
+      "barcode_color": [
+        56,
+        50,
+        36
+      ],
+      "brightness": 18.03921568627451,
+      "saturation": 21.73913043478261,
+      "hue": 41.99999999999999,
+      "density": 3.0
+    },
+    {
+      "time": 135.51280400000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        193,
+        184,
+        169
+      ],
+      "brightness": 70.98039215686273,
+      "saturation": 16.216216216216214,
+      "hue": 37.50000000000001,
+      "density": 1.0
+    },
+    {
+      "time": 145.19229,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        32,
+        20
+      ],
+      "brightness": 12.156862745098039,
+      "saturation": 35.483870967741936,
+      "hue": 32.72727272727273,
+      "density": 2.0
+    },
+    {
+      "time": 154.871776,
+      "sentiment": -0.01,
+      "barcode_color": [
+        77,
+        67,
+        55
+      ],
+      "brightness": 25.882352941176467,
+      "saturation": 16.666666666666664,
+      "hue": 32.72727272727274,
+      "density": 2.0
+    },
+    {
+      "time": 164.55126200000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        24,
+        21,
+        24
+      ],
+      "brightness": 8.823529411764705,
+      "saturation": 6.666666666666667,
+      "hue": 300.0,
+      "density": 2.0
+    },
+    {
+      "time": 174.230748,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        19,
+        21
+      ],
+      "brightness": 7.450980392156863,
+      "saturation": 10.526315789473683,
+      "hue": 210.0,
+      "density": 2.0
+    },
+    {
+      "time": 183.910234,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        20,
+        17
+      ],
+      "brightness": 7.254901960784313,
+      "saturation": 8.108108108108109,
+      "hue": 120.0,
+      "density": 3.5
+    },
+    {
+      "time": 193.58972000000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        24,
+        30,
+        21
+      ],
+      "brightness": 10.0,
+      "saturation": 17.64705882352941,
+      "hue": 100.0,
+      "density": 8.0
+    },
+    {
+      "time": 203.26920600000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        50,
+        43,
+        45
+      ],
+      "brightness": 18.23529411764706,
+      "saturation": 7.526881720430103,
+      "hue": 342.8571428571429,
+      "density": 7.0
+    },
+    {
+      "time": 212.948692,
+      "sentiment": -0.01,
+      "barcode_color": [
+        33,
+        31,
+        29
+      ],
+      "brightness": 12.15686274509804,
+      "saturation": 6.451612903225811,
+      "hue": 29.99999999999997,
+      "density": 7.0
+    },
+    {
+      "time": 222.62817800000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        69,
+        59,
+        48
+      ],
+      "brightness": 22.941176470588236,
+      "saturation": 17.948717948717945,
+      "hue": 31.42857142857144,
+      "density": 7.0
+    },
+    {
+      "time": 232.30766400000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        50,
+        45,
+        37
+      ],
+      "brightness": 17.058823529411764,
+      "saturation": 14.94252873563218,
+      "hue": 36.923076923076934,
+      "density": 7.0
+    },
+    {
+      "time": 241.98715000000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        18,
+        17,
+        10
+      ],
+      "brightness": 5.490196078431373,
+      "saturation": 28.57142857142857,
+      "hue": 52.5,
+      "density": 7.0
+    },
+    {
+      "time": 251.666636,
+      "sentiment": -0.01,
+      "barcode_color": [
+        181,
+        179,
+        175
+      ],
+      "brightness": 69.80392156862744,
+      "saturation": 3.8961038961039014,
+      "hue": 39.999999999999815,
+      "density": 7.0
+    },
+    {
+      "time": 261.34612200000004,
+      "sentiment": -0.06,
+      "barcode_color": [
+        45,
+        43,
+        39
+      ],
+      "brightness": 16.47058823529412,
+      "saturation": 7.1428571428571415,
+      "hue": 40.0,
+      "density": 9.0
+    },
+    {
+      "time": 271.02560800000003,
+      "sentiment": -0.07,
+      "barcode_color": [
+        83,
+        60,
+        47
+      ],
+      "brightness": 25.49019607843137,
+      "saturation": 27.692307692307693,
+      "hue": 21.66666666666666,
+      "density": 8.0
+    },
+    {
+      "time": 280.70509400000003,
+      "sentiment": -0.08,
+      "barcode_color": [
+        134,
+        117,
+        100
+      ],
+      "brightness": 45.88235294117647,
+      "saturation": 14.529914529914532,
+      "hue": 29.99999999999999,
+      "density": 13.5
+    },
+    {
+      "time": 290.38458,
+      "sentiment": -0.02,
+      "barcode_color": [
+        49,
+        49,
+        36
+      ],
+      "brightness": 16.666666666666668,
+      "saturation": 15.294117647058824,
+      "hue": 60.0,
+      "density": 14.5
+    },
+    {
+      "time": 300.064066,
+      "sentiment": -0.01,
+      "barcode_color": [
+        44,
+        42,
+        38
+      ],
+      "brightness": 16.07843137254902,
+      "saturation": 7.3170731707317085,
+      "hue": 40.0,
+      "density": 16.5
+    },
+    {
+      "time": 309.743552,
+      "sentiment": -0.01,
+      "barcode_color": [
+        57,
+        52,
+        42
+      ],
+      "brightness": 19.411764705882355,
+      "saturation": 15.151515151515154,
+      "hue": 39.99999999999999,
+      "density": 11.0
+    },
+    {
+      "time": 319.423038,
+      "sentiment": -0.01,
+      "barcode_color": [
+        62,
+        50,
+        38
+      ],
+      "brightness": 19.607843137254903,
+      "saturation": 24.0,
+      "hue": 30.0,
+      "density": 11.0
+    },
+    {
+      "time": 329.1025240000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        20,
+        10
+      ],
+      "brightness": 8.235294117647058,
+      "saturation": 52.38095238095239,
+      "hue": 27.272727272727273,
+      "density": 11.0
+    },
+    {
+      "time": 338.78201000000007,
+      "sentiment": -0.02,
+      "barcode_color": [
+        67,
+        50,
+        47
+      ],
+      "brightness": 22.35294117647059,
+      "saturation": 17.543859649122805,
+      "hue": 8.99999999999999,
+      "density": 12.5
+    },
+    {
+      "time": 348.461496,
+      "sentiment": -0.03,
+      "barcode_color": [
+        7,
+        10,
+        4
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 42.857142857142854,
+      "hue": 90.0,
+      "density": 14.0
+    },
+    {
+      "time": 358.140982,
+      "sentiment": -0.11,
+      "barcode_color": [
+        62,
+        61,
+        52
+      ],
+      "brightness": 22.352941176470587,
+      "saturation": 8.771929824561404,
+      "hue": 54.00000000000002,
+      "density": 14.0
+    },
+    {
+      "time": 367.820468,
+      "sentiment": -0.11,
+      "barcode_color": [
+        41,
+        31,
+        20
+      ],
+      "brightness": 11.96078431372549,
+      "saturation": 34.42622950819673,
+      "hue": 31.428571428571423,
+      "density": 14.0
+    },
+    {
+      "time": 377.499954,
+      "sentiment": -0.11,
+      "barcode_color": [
+        44,
+        36,
+        25
+      ],
+      "brightness": 13.529411764705882,
+      "saturation": 27.536231884057973,
+      "hue": 34.73684210526316,
+      "density": 16.0
+    },
+    {
+      "time": 387.17944000000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        77,
+        72,
+        58
+      ],
+      "brightness": 26.47058823529412,
+      "saturation": 14.074074074074073,
+      "hue": 44.21052631578949,
+      "density": 14.0
+    },
+    {
+      "time": 396.85892600000005,
+      "sentiment": -0.02,
+      "barcode_color": [
+        186,
+        166,
+        139
+      ],
+      "brightness": 63.725490196078425,
+      "saturation": 25.405405405405407,
+      "hue": 34.468085106383,
+      "density": 8.5
+    },
+    {
+      "time": 406.53841200000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        31,
+        22
+      ],
+      "brightness": 10.588235294117647,
+      "saturation": 18.51851851851852,
+      "hue": 54.0,
+      "density": 8.5
+    },
+    {
+      "time": 416.217898,
+      "sentiment": -0.02,
+      "barcode_color": [
+        56,
+        50,
+        36
+      ],
+      "brightness": 18.03921568627451,
+      "saturation": 21.73913043478261,
+      "hue": 41.99999999999999,
+      "density": 5.0
+    },
+    {
+      "time": 425.897384,
+      "sentiment": -0.01,
+      "barcode_color": [
+        65,
+        68,
+        53
+      ],
+      "brightness": 23.72549019607843,
+      "saturation": 12.39669421487603,
+      "hue": 72.00000000000001,
+      "density": 5.0
+    },
+    {
+      "time": 435.57687000000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        187,
+        190,
+        173
+      ],
+      "brightness": 71.17647058823529,
+      "saturation": 11.564625850340136,
+      "hue": 70.58823529411771,
+      "density": 5.0
+    },
+    {
+      "time": 445.25635600000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        45,
+        44,
+        33
+      ],
+      "brightness": 15.294117647058824,
+      "saturation": 15.384615384615383,
+      "hue": 54.999999999999986,
+      "density": 5.0
+    },
+    {
+      "time": 454.93584200000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        49,
+        45,
+        30
+      ],
+      "brightness": 15.490196078431373,
+      "saturation": 24.05063291139241,
+      "hue": 47.368421052631575,
+      "density": 5.0
+    },
+    {
+      "time": 464.61532800000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        69,
+        64,
+        50
+      ],
+      "brightness": 23.333333333333332,
+      "saturation": 15.966386554621845,
+      "hue": 44.21052631578949,
+      "density": 2.0
+    },
+    {
+      "time": 474.29481400000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        28,
+        27,
+        23
+      ],
+      "brightness": 10.0,
+      "saturation": 9.803921568627452,
+      "hue": 48.0,
+      "density": 2.0
+    },
+    {
+      "time": 483.9743000000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        25,
+        18,
+        18
+      ],
+      "brightness": 8.431372549019608,
+      "saturation": 16.279069767441857,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 493.653786,
+      "sentiment": -0.01,
+      "barcode_color": [
+        63,
+        54,
+        39
+      ],
+      "brightness": 20.0,
+      "saturation": 23.52941176470588,
+      "hue": 37.49999999999999,
+      "density": 0.0
+    },
+    {
+      "time": 503.333272,
+      "sentiment": -0.02,
+      "barcode_color": [
+        30,
+        22,
+        13
+      ],
+      "brightness": 8.431372549019608,
+      "saturation": 39.53488372093023,
+      "hue": 31.764705882352942,
+      "density": 0.0
+    },
+    {
+      "time": 513.0127580000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        20,
+        14,
+        7
+      ],
+      "brightness": 5.294117647058823,
+      "saturation": 48.148148148148145,
+      "hue": 32.30769230769231,
+      "density": 0.0
+    },
+    {
+      "time": 522.6922440000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        33,
+        32,
+        25
+      ],
+      "brightness": 11.372549019607844,
+      "saturation": 13.793103448275868,
+      "hue": 52.499999999999986,
+      "density": 0.0
+    },
+    {
+      "time": 532.3717300000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        18,
+        17,
+        10
+      ],
+      "brightness": 5.490196078431373,
+      "saturation": 28.57142857142857,
+      "hue": 52.5,
+      "density": 0.0
+    },
+    {
+      "time": 542.0512160000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        33,
+        27,
+        18
+      ],
+      "brightness": 10.0,
+      "saturation": 29.41176470588236,
+      "hue": 35.99999999999999,
+      "density": 0.0
+    },
+    {
+      "time": 551.7307020000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        75,
+        74,
+        67
+      ],
+      "brightness": 27.84313725490196,
+      "saturation": 5.633802816901408,
+      "hue": 52.50000000000002,
+      "density": 0.0
+    },
+    {
+      "time": 561.4101880000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        6,
+        1,
+        0
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 10.0,
+      "density": 0.0
+    },
+    {
+      "time": 571.0896740000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        144,
+        141,
+        131
+      ],
+      "brightness": 53.92156862745098,
+      "saturation": 5.531914893617025,
+      "hue": 46.15384615384622,
+      "density": 1.0
+    },
+    {
+      "time": 580.76916,
+      "sentiment": -0.01,
+      "barcode_color": [
+        133,
+        130,
+        108
+      ],
+      "brightness": 47.25490196078431,
+      "saturation": 10.373443983402494,
+      "hue": 52.79999999999996,
+      "density": 1.0
+    },
+    {
+      "time": 590.448646,
+      "sentiment": -0.01,
+      "barcode_color": [
+        41,
+        32,
+        14
+      ],
+      "brightness": 10.784313725490197,
+      "saturation": 49.09090909090909,
+      "hue": 40.0,
+      "density": 1.0
+    },
+    {
+      "time": 600.128132,
+      "sentiment": -0.01,
+      "barcode_color": [
+        105,
+        109,
+        85
+      ],
+      "brightness": 38.03921568627451,
+      "saturation": 12.371134020618557,
+      "hue": 69.99999999999999,
+      "density": 1.0
+    },
+    {
+      "time": 609.807618,
+      "sentiment": -0.01,
+      "barcode_color": [
+        62,
+        49,
+        13
+      ],
+      "brightness": 14.705882352941178,
+      "saturation": 65.33333333333331,
+      "hue": 44.08163265306123,
+      "density": 1.0
+    },
+    {
+      "time": 619.487104,
+      "sentiment": -0.01,
+      "barcode_color": [
+        68,
+        60,
+        26
+      ],
+      "brightness": 18.43137254901961,
+      "saturation": 44.680851063829785,
+      "hue": 48.57142857142857,
+      "density": 1.0
+    },
+    {
+      "time": 629.16659,
+      "sentiment": -0.01,
+      "barcode_color": [
+        30,
+        33,
+        14
+      ],
+      "brightness": 9.215686274509805,
+      "saturation": 40.42553191489362,
+      "hue": 69.47368421052632,
+      "density": 1.0
+    },
+    {
+      "time": 638.846076,
+      "sentiment": -0.01,
+      "barcode_color": [
+        27,
+        65,
+        54
+      ],
+      "brightness": 18.03921568627451,
+      "saturation": 41.30434782608695,
+      "hue": 162.63157894736844,
+      "density": 1.0
+    },
+    {
+      "time": 648.525562,
+      "sentiment": -0.01,
+      "barcode_color": [
+        10,
+        24,
+        24
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 41.17647058823529,
+      "hue": 180.0,
+      "density": 1.0
+    },
+    {
+      "time": 658.2050480000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        21,
+        23,
+        24
+      ],
+      "brightness": 8.823529411764705,
+      "saturation": 6.666666666666667,
+      "hue": 200.0,
+      "density": 6.5
+    },
+    {
+      "time": 667.8845340000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        31,
+        28,
+        20
+      ],
+      "brightness": 10.0,
+      "saturation": 21.56862745098039,
+      "hue": 43.63636363636364,
+      "density": 6.5
+    },
+    {
+      "time": 677.5640200000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        91,
+        102,
+        94
+      ],
+      "brightness": 37.84313725490196,
+      "saturation": 5.699481865284977,
+      "hue": 136.36363636363637,
+      "density": 6.5
+    },
+    {
+      "time": 687.243506,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        7,
+        9
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 28.57142857142857,
+      "hue": 210.0,
+      "density": 13.5
+    },
+    {
+      "time": 696.922992,
+      "sentiment": -0.02,
+      "barcode_color": [
+        54,
+        54,
+        40
+      ],
+      "brightness": 18.43137254901961,
+      "saturation": 14.893617021276595,
+      "hue": 60.0,
+      "density": 13.5
+    },
+    {
+      "time": 706.602478,
+      "sentiment": -0.01,
+      "barcode_color": [
+        87,
+        83,
+        71
+      ],
+      "brightness": 30.980392156862745,
+      "saturation": 10.126582278481013,
+      "hue": 45.0,
+      "density": 14.0
+    },
+    {
+      "time": 716.281964,
+      "sentiment": -0.01,
+      "barcode_color": [
+        25,
+        22,
+        12
+      ],
+      "brightness": 7.254901960784313,
+      "saturation": 35.13513513513514,
+      "hue": 46.15384615384616,
+      "density": 14.0
+    },
+    {
+      "time": 725.96145,
+      "sentiment": -0.01,
+      "barcode_color": [
+        46,
+        50,
+        42
+      ],
+      "brightness": 18.03921568627451,
+      "saturation": 8.695652173913043,
+      "hue": 90.0,
+      "density": 14.0
+    },
+    {
+      "time": 735.640936,
+      "sentiment": -0.01,
+      "barcode_color": [
+        116,
+        115,
+        93
+      ],
+      "brightness": 40.98039215686274,
+      "saturation": 11.004784688995217,
+      "hue": 57.39130434782609,
+      "density": 14.0
+    },
+    {
+      "time": 745.320422,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        16,
+        3
+      ],
+      "brightness": 3.7254901960784315,
+      "saturation": 68.42105263157895,
+      "hue": 83.07692307692307,
+      "density": 14.0
+    },
+    {
+      "time": 754.999908,
+      "sentiment": 0.13,
+      "barcode_color": [
+        43,
+        53,
+        45
+      ],
+      "brightness": 18.823529411764707,
+      "saturation": 10.416666666666668,
+      "hue": 132.0,
+      "density": 14.0
+    },
+    {
+      "time": 764.6793940000001,
+      "sentiment": 0.13,
+      "barcode_color": [
+        58,
+        57,
+        37
+      ],
+      "brightness": 18.627450980392158,
+      "saturation": 22.105263157894733,
+      "hue": 57.14285714285715,
+      "density": 14.0
+    },
+    {
+      "time": 774.3588800000001,
+      "sentiment": 0.13,
+      "barcode_color": [
+        21,
+        26,
+        6
+      ],
+      "brightness": 6.2745098039215685,
+      "saturation": 62.5,
+      "hue": 75.0,
+      "density": 8.5
+    },
+    {
+      "time": 784.0383660000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        20,
+        26,
+        15
+      ],
+      "brightness": 8.03921568627451,
+      "saturation": 26.82926829268293,
+      "hue": 92.72727272727272,
+      "density": 8.5
+    },
+    {
+      "time": 793.7178520000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        30,
+        28,
+        22
+      ],
+      "brightness": 10.196078431372548,
+      "saturation": 15.384615384615385,
+      "hue": 45.0,
+      "density": 8.5
+    },
+    {
+      "time": 803.3973380000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        13,
+        13,
+        11
+      ],
+      "brightness": 4.705882352941177,
+      "saturation": 8.333333333333332,
+      "hue": 60.0,
+      "density": 0.5
+    },
+    {
+      "time": 813.0768240000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        25,
+        30,
+        24
+      ],
+      "brightness": 10.588235294117647,
+      "saturation": 11.11111111111111,
+      "hue": 109.99999999999999,
+      "density": 0.5
+    },
+    {
+      "time": 822.7563100000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        18,
+        28,
+        24
+      ],
+      "brightness": 9.019607843137255,
+      "saturation": 21.73913043478261,
+      "hue": 156.0,
+      "density": 0.5
+    },
+    {
+      "time": 832.435796,
+      "sentiment": -0.01,
+      "barcode_color": [
+        27,
+        33,
+        26
+      ],
+      "brightness": 11.568627450980392,
+      "saturation": 11.864406779661023,
+      "hue": 111.42857142857143,
+      "density": 0.0
+    },
+    {
+      "time": 842.115282,
+      "sentiment": -0.01,
+      "barcode_color": [
+        54,
+        58,
+        50
+      ],
+      "brightness": 21.176470588235293,
+      "saturation": 7.4074074074074066,
+      "hue": 90.0,
+      "density": 0.0
+    },
+    {
+      "time": 851.794768,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        11,
+        11
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 37.5,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 861.474254,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        5,
+        7
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 40.0,
+      "hue": 210.0,
+      "density": 0.0
+    },
+    {
+      "time": 871.1537400000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        42,
+        40
+      ],
+      "brightness": 16.07843137254902,
+      "saturation": 2.4390243902439024,
+      "hue": 60.0,
+      "density": 0.0
+    },
+    {
+      "time": 880.8332260000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        7,
+        7,
+        7
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 890.5127120000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        28,
+        23,
+        22
+      ],
+      "brightness": 9.803921568627452,
+      "saturation": 12.0,
+      "hue": 10.0,
+      "density": 0.0
+    },
+    {
+      "time": 900.1921980000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        76,
+        75,
+        68
+      ],
+      "brightness": 28.235294117647058,
+      "saturation": 5.555555555555555,
+      "hue": 52.50000000000002,
+      "density": 0.0
+    },
+    {
+      "time": 909.8716840000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        90,
+        90,
+        86
+      ],
+      "brightness": 34.509803921568626,
+      "saturation": 2.272727272727273,
+      "hue": 60.0,
+      "density": 0.0
+    },
+    {
+      "time": 919.5511700000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        86,
+        91,
+        90
+      ],
+      "brightness": 34.705882352941174,
+      "saturation": 2.824858757062145,
+      "hue": 168.00000000000006,
+      "density": 0.0
+    },
+    {
+      "time": 929.2306560000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        35,
+        46,
+        51
+      ],
+      "brightness": 16.862745098039216,
+      "saturation": 18.6046511627907,
+      "hue": 198.75,
+      "density": 0.0
+    },
+    {
+      "time": 938.9101420000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        23,
+        19,
+        14
+      ],
+      "brightness": 7.254901960784313,
+      "saturation": 24.324324324324326,
+      "hue": 33.333333333333336,
+      "density": 0.0
+    },
+    {
+      "time": 948.5896280000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        41,
+        30,
+        23
+      ],
+      "brightness": 12.549019607843137,
+      "saturation": 28.125000000000007,
+      "hue": 23.333333333333332,
+      "density": 0.0
+    },
+    {
+      "time": 958.2691140000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        20,
+        10,
+        2
+      ],
+      "brightness": 4.313725490196078,
+      "saturation": 81.81818181818183,
+      "hue": 26.666666666666664,
+      "density": 0.0
+    },
+    {
+      "time": 967.9486000000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        27,
+        17,
+        9
+      ],
+      "brightness": 7.0588235294117645,
+      "saturation": 50.0,
+      "hue": 26.666666666666664,
+      "density": 0.0
+    },
+    {
+      "time": 977.6280860000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        2,
+        0
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 90.0,
+      "density": 0.0
+    },
+    {
+      "time": 987.307572,
+      "sentiment": -0.01,
+      "barcode_color": [
+        54,
+        35,
+        25
+      ],
+      "brightness": 15.490196078431373,
+      "saturation": 36.70886075949367,
+      "hue": 20.6896551724138,
+      "density": 0.5
+    },
+    {
+      "time": 996.987058,
+      "sentiment": -0.02,
+      "barcode_color": [
+        44,
+        29,
+        20
+      ],
+      "brightness": 12.549019607843137,
+      "saturation": 37.5,
+      "hue": 22.5,
+      "density": 0.5
+    },
+    {
+      "time": 1006.666544,
+      "sentiment": -0.01,
+      "barcode_color": [
+        9,
+        7,
+        5
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 28.57142857142857,
+      "hue": 30.0,
+      "density": 1.0
+    },
+    {
+      "time": 1016.34603,
+      "sentiment": -0.01,
+      "barcode_color": [
+        18,
+        9,
+        8
+      ],
+      "brightness": 5.098039215686274,
+      "saturation": 38.46153846153847,
+      "hue": 6.0,
+      "density": 2.0
+    },
+    {
+      "time": 1026.0255160000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        45,
+        37,
+        30
+      ],
+      "brightness": 14.705882352941178,
+      "saturation": 20.000000000000004,
+      "hue": 28.000000000000007,
+      "density": 2.0
+    },
+    {
+      "time": 1035.7050020000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        52,
+        39,
+        32
+      ],
+      "brightness": 16.470588235294116,
+      "saturation": 23.809523809523807,
+      "hue": 21.000000000000014,
+      "density": 2.0
+    },
+    {
+      "time": 1045.3844880000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        3,
+        2
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 75.0,
+      "hue": 5.0,
+      "density": 2.0
+    },
+    {
+      "time": 1055.0639740000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        20,
+        9,
+        6
+      ],
+      "brightness": 5.098039215686274,
+      "saturation": 53.84615384615385,
+      "hue": 12.857142857142856,
+      "density": 2.0
+    },
+    {
+      "time": 1064.7434600000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        3,
+        1
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 66.66666666666666,
+      "hue": 30.0,
+      "density": 2.0
+    },
+    {
+      "time": 1074.4229460000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        13,
+        12
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 17.24137931034483,
+      "hue": 12.0,
+      "density": 2.0
+    },
+    {
+      "time": 1084.1024320000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        54,
+        48,
+        39
+      ],
+      "brightness": 18.23529411764706,
+      "saturation": 16.12903225806451,
+      "hue": 35.99999999999999,
+      "density": 2.0
+    },
+    {
+      "time": 1093.7819180000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        28,
+        22,
+        15
+      ],
+      "brightness": 8.431372549019608,
+      "saturation": 30.23255813953488,
+      "hue": 32.30769230769231,
+      "density": 2.0
+    },
+    {
+      "time": 1103.4614040000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        7,
+        6
+      ],
+      "brightness": 3.3333333333333335,
+      "saturation": 29.411764705882355,
+      "hue": 12.0,
+      "density": 1.5
+    },
+    {
+      "time": 1113.1408900000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        8,
+        3,
+        3
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 45.45454545454545,
+      "hue": 0.0,
+      "density": 1.5
+    },
+    {
+      "time": 1122.8203760000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        10,
+        7,
+        1
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 81.81818181818183,
+      "hue": 40.0,
+      "density": 1.5
+    },
+    {
+      "time": 1132.4998620000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        9,
+        3,
+        3
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 50.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 1142.1793480000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        25,
+        12,
+        5
+      ],
+      "brightness": 5.88235294117647,
+      "saturation": 66.66666666666666,
+      "hue": 20.999999999999996,
+      "density": 0.0
+    },
+    {
+      "time": 1151.8588340000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        18,
+        10,
+        4
+      ],
+      "brightness": 4.313725490196078,
+      "saturation": 63.63636363636363,
+      "hue": 25.71428571428571,
+      "density": 0.0
+    },
+    {
+      "time": 1161.53832,
+      "sentiment": -0.02,
+      "barcode_color": [
+        16,
+        11,
+        4
+      ],
+      "brightness": 3.9215686274509802,
+      "saturation": 60.0,
+      "hue": 35.0,
+      "density": 0.0
+    },
+    {
+      "time": 1171.217806,
+      "sentiment": -0.01,
+      "barcode_color": [
+        54,
+        53,
+        46
+      ],
+      "brightness": 19.607843137254903,
+      "saturation": 8.0,
+      "hue": 52.50000000000002,
+      "density": 0.0
+    },
+    {
+      "time": 1180.897292,
+      "sentiment": -0.02,
+      "barcode_color": [
+        14,
+        8,
+        1
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 86.66666666666667,
+      "hue": 32.30769230769231,
+      "density": 0.0
+    },
+    {
+      "time": 1190.576778,
+      "sentiment": -0.01,
+      "barcode_color": [
+        20,
+        14,
+        7
+      ],
+      "brightness": 5.294117647058823,
+      "saturation": 48.148148148148145,
+      "hue": 32.30769230769231,
+      "density": 0.0
+    },
+    {
+      "time": 1200.256264,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        2,
+        0
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 30.0,
+      "density": 0.0
+    },
+    {
+      "time": 1209.93575,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        1,
+        0
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 10.0,
+      "density": 0.0
+    },
+    {
+      "time": 1219.615236,
+      "sentiment": -0.02,
+      "barcode_color": [
+        14,
+        7,
+        7
+      ],
+      "brightness": 4.117647058823529,
+      "saturation": 33.33333333333333,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 1229.294722,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        2,
+        4
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 33.33333333333333,
+      "hue": 240.0,
+      "density": 0.0
+    },
+    {
+      "time": 1238.974208,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        2,
+        6
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 50.0,
+      "hue": 240.0,
+      "density": 0.0
+    },
+    {
+      "time": 1248.653694,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        0,
+        0
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 1258.33318,
+      "sentiment": -0.02,
+      "barcode_color": [
+        1,
+        2,
+        6
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 71.42857142857143,
+      "hue": 228.0,
+      "density": 0.0
+    },
+    {
+      "time": 1268.012666,
+      "sentiment": -0.01,
+      "barcode_color": [
+        26,
+        24,
+        20
+      ],
+      "brightness": 9.019607843137255,
+      "saturation": 13.043478260869565,
+      "hue": 40.0,
+      "density": 0.0
+    },
+    {
+      "time": 1277.692152,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        26,
+        21
+      ],
+      "brightness": 10.392156862745097,
+      "saturation": 20.754716981132077,
+      "hue": 27.272727272727273,
+      "density": 1.5
+    },
+    {
+      "time": 1287.371638,
+      "sentiment": -0.01,
+      "barcode_color": [
+        16,
+        19,
+        15
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 11.76470588235294,
+      "hue": 105.0,
+      "density": 1.5
+    },
+    {
+      "time": 1297.051124,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        26,
+        19
+      ],
+      "brightness": 10.0,
+      "saturation": 25.49019607843137,
+      "hue": 32.30769230769231,
+      "density": 1.5
+    },
+    {
+      "time": 1306.7306100000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        36,
+        21,
+        14
+      ],
+      "brightness": 9.803921568627452,
+      "saturation": 44.0,
+      "hue": 19.09090909090909,
+      "density": 1.5
+    },
+    {
+      "time": 1316.4100960000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        22,
+        22,
+        22
+      ],
+      "brightness": 8.627450980392156,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 1.5
+    },
+    {
+      "time": 1326.0895820000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        9,
+        15,
+        20
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 37.93103448275862,
+      "hue": 207.27272727272728,
+      "density": 1.5
+    },
+    {
+      "time": 1335.7690680000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        2,
+        6
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 71.42857142857143,
+      "hue": 228.0,
+      "density": 1.5
+    },
+    {
+      "time": 1345.4485540000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        38,
+        25,
+        16
+      ],
+      "brightness": 10.588235294117647,
+      "saturation": 40.74074074074074,
+      "hue": 24.54545454545455,
+      "density": 1.5
+    },
+    {
+      "time": 1355.1280400000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        21,
+        17,
+        11
+      ],
+      "brightness": 6.2745098039215685,
+      "saturation": 31.25,
+      "hue": 36.0,
+      "density": 3.5
+    },
+    {
+      "time": 1364.807526,
+      "sentiment": -0.02,
+      "barcode_color": [
+        11,
+        14,
+        13
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 12.0,
+      "hue": 160.0,
+      "density": 3.5
+    },
+    {
+      "time": 1374.487012,
+      "sentiment": -0.01,
+      "barcode_color": [
+        53,
+        53,
+        37
+      ],
+      "brightness": 17.647058823529413,
+      "saturation": 17.777777777777775,
+      "hue": 60.0,
+      "density": 3.5
+    },
+    {
+      "time": 1384.166498,
+      "sentiment": -0.02,
+      "barcode_color": [
+        77,
+        71,
+        57
+      ],
+      "brightness": 26.27450980392157,
+      "saturation": 14.925373134328352,
+      "hue": 42.000000000000014,
+      "density": 3.5
+    },
+    {
+      "time": 1393.845984,
+      "sentiment": -0.01,
+      "barcode_color": [
+        39,
+        29,
+        23
+      ],
+      "brightness": 12.15686274509804,
+      "saturation": 25.80645161290323,
+      "hue": 22.499999999999996,
+      "density": 2.0
+    },
+    {
+      "time": 1403.52547,
+      "sentiment": -0.01,
+      "barcode_color": [
+        25,
+        16,
+        17
+      ],
+      "brightness": 8.03921568627451,
+      "saturation": 21.951219512195124,
+      "hue": 353.33333333333337,
+      "density": 2.0
+    },
+    {
+      "time": 1413.204956,
+      "sentiment": -0.01,
+      "barcode_color": [
+        16,
+        10,
+        6
+      ],
+      "brightness": 4.313725490196078,
+      "saturation": 45.45454545454545,
+      "hue": 24.0,
+      "density": 2.0
+    },
+    {
+      "time": 1422.884442,
+      "sentiment": -0.02,
+      "barcode_color": [
+        10,
+        7,
+        0
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 100.0,
+      "hue": 41.99999999999999,
+      "density": 2.0
+    },
+    {
+      "time": 1432.563928,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        0,
+        0
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 1442.243414,
+      "sentiment": -0.01,
+      "barcode_color": [
+        138,
+        138,
+        122
+      ],
+      "brightness": 50.98039215686274,
+      "saturation": 6.399999999999993,
+      "hue": 60.0,
+      "density": 2.0
+    },
+    {
+      "time": 1451.9229,
+      "sentiment": -0.01,
+      "barcode_color": [
+        28,
+        29,
+        13
+      ],
+      "brightness": 8.235294117647058,
+      "saturation": 38.095238095238095,
+      "hue": 63.75,
+      "density": 2.0
+    },
+    {
+      "time": 1461.602386,
+      "sentiment": -0.01,
+      "barcode_color": [
+        19,
+        15,
+        16
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 11.76470588235294,
+      "hue": 345.0,
+      "density": 3.0
+    },
+    {
+      "time": 1471.281872,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        0,
+        1
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 345.0,
+      "density": 2.5
+    },
+    {
+      "time": 1480.961358,
+      "sentiment": -0.01,
+      "barcode_color": [
+        9,
+        4,
+        6
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 38.46153846153847,
+      "hue": 335.99999999999994,
+      "density": 1.0
+    },
+    {
+      "time": 1490.640844,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        2,
+        6
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 50.0,
+      "hue": 285.0,
+      "density": 1.0
+    },
+    {
+      "time": 1500.32033,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        4,
+        8
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 60.0,
+      "hue": 219.99999999999997,
+      "density": 1.0
+    },
+    {
+      "time": 1509.999816,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        4,
+        6
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 50.0,
+      "hue": 210.0,
+      "density": 1.0
+    },
+    {
+      "time": 1519.6793020000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        33,
+        33,
+        31
+      ],
+      "brightness": 12.549019607843137,
+      "saturation": 3.1250000000000053,
+      "hue": 60.0,
+      "density": 2.0
+    },
+    {
+      "time": 1529.3587880000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        0,
+        0
+      ],
+      "brightness": 0.0,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 1539.0382740000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        0,
+        0
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 1548.7177600000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        0,
+        0
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 1558.3972460000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        68,
+        67,
+        58
+      ],
+      "brightness": 24.705882352941178,
+      "saturation": 7.936507936507936,
+      "hue": 54.00000000000002,
+      "density": 2.0
+    },
+    {
+      "time": 1568.0767320000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        19,
+        16,
+        8
+      ],
+      "brightness": 5.294117647058823,
+      "saturation": 40.74074074074074,
+      "hue": 43.63636363636364,
+      "density": 2.0
+    },
+    {
+      "time": 1577.7562180000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        31,
+        28,
+        20
+      ],
+      "brightness": 10.0,
+      "saturation": 21.56862745098039,
+      "hue": 43.63636363636364,
+      "density": 2.0
+    },
+    {
+      "time": 1587.4357040000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        26,
+        0
+      ],
+      "brightness": 6.2745098039215685,
+      "saturation": 100.0,
+      "hue": 48.75,
+      "density": 1.0
+    },
+    {
+      "time": 1597.1151900000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        198,
+        193,
+        151
+      ],
+      "brightness": 68.43137254901961,
+      "saturation": 29.19254658385093,
+      "hue": 53.61702127659573,
+      "density": 1.0
+    },
+    {
+      "time": 1606.7946760000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        70,
+        63,
+        33
+      ],
+      "brightness": 20.19607843137255,
+      "saturation": 35.92233009708738,
+      "hue": 48.64864864864864,
+      "density": 1.0
+    },
+    {
+      "time": 1616.4741620000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        59,
+        53,
+        30
+      ],
+      "brightness": 17.45098039215686,
+      "saturation": 32.58426966292136,
+      "hue": 47.58620689655173,
+      "density": 1.0
+    },
+    {
+      "time": 1626.1536480000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        46,
+        41,
+        17
+      ],
+      "brightness": 12.352941176470589,
+      "saturation": 46.03174603174603,
+      "hue": 49.65517241379311,
+      "density": 12.5
+    },
+    {
+      "time": 1635.8331340000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        195,
+        191,
+        160
+      ],
+      "brightness": 69.6078431372549,
+      "saturation": 22.580645161290313,
+      "hue": 53.14285714285717,
+      "density": 13.5
+    },
+    {
+      "time": 1645.5126200000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        111,
+        108,
+        71
+      ],
+      "brightness": 35.68627450980392,
+      "saturation": 21.978021978021978,
+      "hue": 55.49999999999999,
+      "density": 17.0
+    },
+    {
+      "time": 1655.1921060000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        27,
+        29,
+        5
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 70.58823529411765,
+      "hue": 65.00000000000001,
+      "density": 27.0
+    },
+    {
+      "time": 1664.871592,
+      "sentiment": -0.01,
+      "barcode_color": [
+        160,
+        143,
+        112
+      ],
+      "brightness": 53.333333333333336,
+      "saturation": 20.168067226890756,
+      "hue": 38.75,
+      "density": 31.0
+    },
+    {
+      "time": 1674.551078,
+      "sentiment": -0.02,
+      "barcode_color": [
+        170,
+        145,
+        117
+      ],
+      "brightness": 56.27450980392157,
+      "saturation": 23.76681614349775,
+      "hue": 31.698113207547166,
+      "density": 31.0
+    },
+    {
+      "time": 1684.230564,
+      "sentiment": -0.01,
+      "barcode_color": [
+        60,
+        40,
+        33
+      ],
+      "brightness": 18.23529411764706,
+      "saturation": 29.03225806451612,
+      "hue": 15.555555555555552,
+      "density": 33.5
+    },
+    {
+      "time": 1693.91005,
+      "sentiment": -0.02,
+      "barcode_color": [
+        12,
+        5,
+        0
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 100.0,
+      "hue": 25.0,
+      "density": 33.5
+    },
+    {
+      "time": 1703.589536,
+      "sentiment": -0.01,
+      "barcode_color": [
+        43,
+        30,
+        26
+      ],
+      "brightness": 13.529411764705884,
+      "saturation": 24.637681159420293,
+      "hue": 14.117647058823527,
+      "density": 33.5
+    },
+    {
+      "time": 1713.269022,
+      "sentiment": -0.09,
+      "barcode_color": [
+        64,
+        53,
+        48
+      ],
+      "brightness": 21.96078431372549,
+      "saturation": 14.285714285714285,
+      "hue": 18.750000000000014,
+      "density": 36.0
+    },
+    {
+      "time": 1722.948508,
+      "sentiment": -0.09,
+      "barcode_color": [
+        52,
+        39,
+        30
+      ],
+      "brightness": 16.07843137254902,
+      "saturation": 26.82926829268293,
+      "hue": 24.545454545454554,
+      "density": 37.5
+    },
+    {
+      "time": 1732.6279940000002,
+      "sentiment": -0.09,
+      "barcode_color": [
+        12,
+        12,
+        10
+      ],
+      "brightness": 4.313725490196078,
+      "saturation": 9.090909090909092,
+      "hue": 60.0,
+      "density": 38.0
+    },
+    {
+      "time": 1742.3074800000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        51,
+        45,
+        41
+      ],
+      "brightness": 18.039215686274513,
+      "saturation": 10.869565217391303,
+      "hue": 24.0,
+      "density": 35.0
+    },
+    {
+      "time": 1751.9869660000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        9,
+        0,
+        0
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 34.0
+    },
+    {
+      "time": 1761.6664520000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        80,
+        61,
+        47
+      ],
+      "brightness": 24.901960784313726,
+      "saturation": 25.984251968503933,
+      "hue": 25.45454545454546,
+      "density": 30.5
+    },
+    {
+      "time": 1771.3459380000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        74,
+        61,
+        45
+      ],
+      "brightness": 23.333333333333332,
+      "saturation": 24.369747899159666,
+      "hue": 33.103448275862064,
+      "density": 29.0
+    },
+    {
+      "time": 1781.0254240000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        66,
+        59,
+        34
+      ],
+      "brightness": 19.607843137254903,
+      "saturation": 32.0,
+      "hue": 46.87499999999999,
+      "density": 20.5
+    },
+    {
+      "time": 1790.7049100000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        95,
+        71,
+        38
+      ],
+      "brightness": 26.078431372549023,
+      "saturation": 42.857142857142854,
+      "hue": 34.73684210526316,
+      "density": 25.5
+    },
+    {
+      "time": 1800.3843960000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        97,
+        82,
+        35
+      ],
+      "brightness": 25.882352941176467,
+      "saturation": 46.96969696969697,
+      "hue": 45.48387096774194,
+      "density": 26.5
+    },
+    {
+      "time": 1810.0638820000001,
+      "sentiment": -0.24,
+      "barcode_color": [
+        66,
+        47,
+        26
+      ],
+      "brightness": 18.039215686274513,
+      "saturation": 43.47826086956522,
+      "hue": 31.500000000000004,
+      "density": 27.0
+    },
+    {
+      "time": 1819.7433680000001,
+      "sentiment": -0.32,
+      "barcode_color": [
+        119,
+        99,
+        67
+      ],
+      "brightness": 36.47058823529412,
+      "saturation": 27.956989247311824,
+      "hue": 36.92307692307693,
+      "density": 33.5
+    },
+    {
+      "time": 1829.4228540000001,
+      "sentiment": -0.41,
+      "barcode_color": [
+        72,
+        52,
+        32
+      ],
+      "brightness": 20.392156862745097,
+      "saturation": 38.46153846153847,
+      "hue": 30.0,
+      "density": 32.5
+    },
+    {
+      "time": 1839.1023400000001,
+      "sentiment": -0.32,
+      "barcode_color": [
+        63,
+        46,
+        27
+      ],
+      "brightness": 17.647058823529413,
+      "saturation": 40.0,
+      "hue": 31.666666666666668,
+      "density": 37.5
+    },
+    {
+      "time": 1848.7818260000001,
+      "sentiment": -0.17,
+      "barcode_color": [
+        126,
+        111,
+        89
+      ],
+      "brightness": 42.15686274509804,
+      "saturation": 17.209302325581397,
+      "hue": 35.67567567567568,
+      "density": 39.5
+    },
+    {
+      "time": 1858.4613120000001,
+      "sentiment": -0.07,
+      "barcode_color": [
+        80,
+        67,
+        51
+      ],
+      "brightness": 25.68627450980392,
+      "saturation": 22.13740458015267,
+      "hue": 33.10344827586207,
+      "density": 43.0
+    },
+    {
+      "time": 1868.1407980000001,
+      "sentiment": 0.05,
+      "barcode_color": [
+        36,
+        20,
+        7
+      ],
+      "brightness": 8.431372549019608,
+      "saturation": 67.44186046511628,
+      "hue": 26.896551724137932,
+      "density": 41.5
+    },
+    {
+      "time": 1877.8202840000001,
+      "sentiment": 0.02,
+      "barcode_color": [
+        158,
+        143,
+        109
+      ],
+      "brightness": 52.352941176470594,
+      "saturation": 20.164609053497948,
+      "hue": 41.63265306122449,
+      "density": 36.0
+    },
+    {
+      "time": 1887.4997700000001,
+      "sentiment": -0.12,
+      "barcode_color": [
+        186,
+        169,
+        136
+      ],
+      "brightness": 63.13725490196078,
+      "saturation": 26.595744680851062,
+      "hue": 39.6,
+      "density": 32.0
+    },
+    {
+      "time": 1897.1792560000001,
+      "sentiment": -0.15,
+      "barcode_color": [
+        178,
+        158,
+        126
+      ],
+      "brightness": 59.6078431372549,
+      "saturation": 25.242718446601938,
+      "hue": 36.923076923076934,
+      "density": 32.0
+    },
+    {
+      "time": 1906.8587420000003,
+      "sentiment": -0.25,
+      "barcode_color": [
+        192,
+        172,
+        140
+      ],
+      "brightness": 65.09803921568627,
+      "saturation": 29.21348314606741,
+      "hue": 36.923076923076934,
+      "density": 27.0
+    },
+    {
+      "time": 1916.5382280000003,
+      "sentiment": -0.18,
+      "barcode_color": [
+        181,
+        157,
+        124
+      ],
+      "brightness": 59.80392156862745,
+      "saturation": 27.804878048780502,
+      "hue": 34.73684210526316,
+      "density": 24.5
+    },
+    {
+      "time": 1926.2177140000003,
+      "sentiment": -0.13,
+      "barcode_color": [
+        76,
+        65,
+        46
+      ],
+      "brightness": 23.921568627450977,
+      "saturation": 24.590163934426233,
+      "hue": 37.99999999999999,
+      "density": 23.0
+    },
+    {
+      "time": 1935.8972000000003,
+      "sentiment": -0.06,
+      "barcode_color": [
+        11,
+        10,
+        1
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 83.33333333333334,
+      "hue": 54.0,
+      "density": 23.0
+    },
+    {
+      "time": 1945.5766860000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        59,
+        45,
+        32
+      ],
+      "brightness": 17.84313725490196,
+      "saturation": 29.67032967032967,
+      "hue": 28.888888888888893,
+      "density": 16.5
+    },
+    {
+      "time": 1955.2561720000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        84,
+        68,
+        55
+      ],
+      "brightness": 27.254901960784316,
+      "saturation": 20.86330935251798,
+      "hue": 26.89655172413793,
+      "density": 8.5
+    },
+    {
+      "time": 1964.9356580000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        49,
+        47,
+        29
+      ],
+      "brightness": 15.294117647058824,
+      "saturation": 25.641025641025646,
+      "hue": 54.0,
+      "density": 8.5
+    },
+    {
+      "time": 1974.615144,
+      "sentiment": -0.02,
+      "barcode_color": [
+        64,
+        52,
+        45
+      ],
+      "brightness": 21.372549019607845,
+      "saturation": 17.431192660550455,
+      "hue": 22.10526315789473,
+      "density": 2.5
+    },
+    {
+      "time": 1984.29463,
+      "sentiment": -0.01,
+      "barcode_color": [
+        79,
+        71,
+        60
+      ],
+      "brightness": 27.254901960784316,
+      "saturation": 13.66906474820144,
+      "hue": 34.73684210526316,
+      "density": 2.5
+    },
+    {
+      "time": 1993.974116,
+      "sentiment": -0.01,
+      "barcode_color": [
+        47,
+        47,
+        22
+      ],
+      "brightness": 13.529411764705884,
+      "saturation": 36.231884057971016,
+      "hue": 60.0,
+      "density": 0.0
+    },
+    {
+      "time": 2003.653602,
+      "sentiment": -0.01,
+      "barcode_color": [
+        54,
+        58,
+        29
+      ],
+      "brightness": 17.058823529411764,
+      "saturation": 33.33333333333333,
+      "hue": 68.27586206896552,
+      "density": 0.0
+    },
+    {
+      "time": 2013.333088,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        41,
+        16
+      ],
+      "brightness": 11.372549019607844,
+      "saturation": 44.827586206896555,
+      "hue": 57.6923076923077,
+      "density": 0.0
+    },
+    {
+      "time": 2023.012574,
+      "sentiment": -0.01,
+      "barcode_color": [
+        76,
+        80,
+        53
+      ],
+      "brightness": 26.078431372549023,
+      "saturation": 20.300751879699245,
+      "hue": 68.88888888888889,
+      "density": 0.0
+    },
+    {
+      "time": 2032.69206,
+      "sentiment": -0.01,
+      "barcode_color": [
+        53,
+        62,
+        32
+      ],
+      "brightness": 18.43137254901961,
+      "saturation": 31.914893617021274,
+      "hue": 77.99999999999999,
+      "density": 0.0
+    },
+    {
+      "time": 2042.371546,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        43,
+        19
+      ],
+      "brightness": 12.15686274509804,
+      "saturation": 38.70967741935484,
+      "hue": 87.50000000000001,
+      "density": 0.0
+    },
+    {
+      "time": 2052.0510320000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        41,
+        42,
+        33
+      ],
+      "brightness": 14.705882352941178,
+      "saturation": 11.999999999999995,
+      "hue": 66.66666666666664,
+      "density": 0.0
+    },
+    {
+      "time": 2061.7305180000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        73,
+        70,
+        51
+      ],
+      "brightness": 24.313725490196077,
+      "saturation": 17.741935483870964,
+      "hue": 51.81818181818184,
+      "density": 0.0
+    },
+    {
+      "time": 2071.4100040000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        63,
+        62,
+        39
+      ],
+      "brightness": 20.0,
+      "saturation": 23.52941176470588,
+      "hue": 57.499999999999986,
+      "density": 0.0
+    },
+    {
+      "time": 2081.0894900000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        51,
+        58,
+        30
+      ],
+      "brightness": 17.254901960784313,
+      "saturation": 31.818181818181817,
+      "hue": 75.0,
+      "density": 3.0
+    },
+    {
+      "time": 2090.7689760000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        45,
+        28
+      ],
+      "brightness": 14.313725490196077,
+      "saturation": 23.28767123287672,
+      "hue": 70.58823529411767,
+      "density": 5.5
+    },
+    {
+      "time": 2100.4484620000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        13,
+        8,
+        0
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 100.0,
+      "hue": 36.92307692307693,
+      "density": 10.0
+    },
+    {
+      "time": 2110.1279480000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        7,
+        3,
+        0
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 25.71428571428571,
+      "density": 13.0
+    },
+    {
+      "time": 2119.8074340000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        22,
+        17,
+        17
+      ],
+      "brightness": 7.647058823529412,
+      "saturation": 12.82051282051282,
+      "hue": 0.0,
+      "density": 17.5
+    },
+    {
+      "time": 2129.4869200000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        5,
+        6
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 16.666666666666664,
+      "hue": 330.0,
+      "density": 20.0
+    },
+    {
+      "time": 2139.1664060000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        2,
+        1
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 75.0,
+      "hue": 10.0,
+      "density": 20.0
+    },
+    {
+      "time": 2148.8458920000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        59,
+        58,
+        49
+      ],
+      "brightness": 21.176470588235297,
+      "saturation": 9.259259259259258,
+      "hue": 53.99999999999998,
+      "density": 20.0
+    },
+    {
+      "time": 2158.5253780000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        36,
+        48,
+        46
+      ],
+      "brightness": 16.470588235294116,
+      "saturation": 14.285714285714285,
+      "hue": 170.00000000000003,
+      "density": 20.0
+    },
+    {
+      "time": 2168.2048640000003,
+      "sentiment": -0.17,
+      "barcode_color": [
+        115,
+        118,
+        103
+      ],
+      "brightness": 43.333333333333336,
+      "saturation": 6.787330316742082,
+      "hue": 72.00000000000001,
+      "density": 20.0
+    },
+    {
+      "time": 2177.8843500000003,
+      "sentiment": -0.18,
+      "barcode_color": [
+        108,
+        111,
+        96
+      ],
+      "brightness": 40.588235294117645,
+      "saturation": 7.246376811594205,
+      "hue": 72.00000000000001,
+      "density": 20.0
+    },
+    {
+      "time": 2187.5638360000003,
+      "sentiment": -0.17,
+      "barcode_color": [
+        99,
+        101,
+        87
+      ],
+      "brightness": 36.86274509803922,
+      "saturation": 7.446808510638293,
+      "hue": 68.57142857142854,
+      "density": 20.0
+    },
+    {
+      "time": 2197.2433220000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        63,
+        75,
+        62
+      ],
+      "brightness": 26.862745098039216,
+      "saturation": 9.489051094890513,
+      "hue": 115.38461538461537,
+      "density": 17.0
+    },
+    {
+      "time": 2206.9228080000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        61,
+        62,
+        54
+      ],
+      "brightness": 22.745098039215687,
+      "saturation": 6.896551724137931,
+      "hue": 67.49999999999997,
+      "density": 15.5
+    },
+    {
+      "time": 2216.6022940000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        100,
+        94,
+        73
+      ],
+      "brightness": 33.92156862745098,
+      "saturation": 15.606936416184972,
+      "hue": 46.666666666666686,
+      "density": 12.5
+    },
+    {
+      "time": 2226.2817800000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        95,
+        91,
+        56
+      ],
+      "brightness": 29.607843137254903,
+      "saturation": 25.82781456953643,
+      "hue": 53.84615384615385,
+      "density": 7.0
+    },
+    {
+      "time": 2235.9612660000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        101,
+        80,
+        56
+      ],
+      "brightness": 30.784313725490197,
+      "saturation": 28.6624203821656,
+      "hue": 32.0,
+      "density": 6.0
+    },
+    {
+      "time": 2245.6407520000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        38,
+        31,
+        17
+      ],
+      "brightness": 10.784313725490197,
+      "saturation": 38.18181818181818,
+      "hue": 40.0,
+      "density": 5.5
+    },
+    {
+      "time": 2255.3202380000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        11,
+        15,
+        7
+      ],
+      "brightness": 4.313725490196078,
+      "saturation": 36.36363636363637,
+      "hue": 90.0,
+      "density": 3.0
+    },
+    {
+      "time": 2264.9997240000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        9,
+        5,
+        0
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 100.0,
+      "hue": 33.333333333333336,
+      "density": 3.0
+    },
+    {
+      "time": 2274.6792100000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        62,
+        52,
+        41
+      ],
+      "brightness": 20.19607843137255,
+      "saturation": 20.388349514563103,
+      "hue": 31.428571428571423,
+      "density": 3.0
+    },
+    {
+      "time": 2284.3586960000002,
+      "sentiment": -0.08,
+      "barcode_color": [
+        43,
+        6,
+        21
+      ],
+      "brightness": 9.607843137254903,
+      "saturation": 75.51020408163266,
+      "hue": 335.6756756756757,
+      "density": 3.0
+    },
+    {
+      "time": 2294.0381820000002,
+      "sentiment": -0.11,
+      "barcode_color": [
+        48,
+        53,
+        38
+      ],
+      "brightness": 17.84313725490196,
+      "saturation": 16.483516483516485,
+      "hue": 80.0,
+      "density": 3.0
+    },
+    {
+      "time": 2303.7176680000002,
+      "sentiment": -0.11,
+      "barcode_color": [
+        35,
+        25,
+        13
+      ],
+      "brightness": 9.411764705882353,
+      "saturation": 45.83333333333334,
+      "hue": 32.72727272727273,
+      "density": 3.0
+    },
+    {
+      "time": 2313.3971540000002,
+      "sentiment": -0.05,
+      "barcode_color": [
+        7,
+        7,
+        0
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 60.0,
+      "density": 3.0
+    },
+    {
+      "time": 2323.07664,
+      "sentiment": -0.01,
+      "barcode_color": [
+        31,
+        30,
+        21
+      ],
+      "brightness": 10.196078431372548,
+      "saturation": 19.230769230769234,
+      "hue": 54.0,
+      "density": 6.0
+    },
+    {
+      "time": 2332.756126,
+      "sentiment": -0.02,
+      "barcode_color": [
+        63,
+        60,
+        49
+      ],
+      "brightness": 21.96078431372549,
+      "saturation": 12.5,
+      "hue": 47.142857142857125,
+      "density": 9.5
+    },
+    {
+      "time": 2342.435612,
+      "sentiment": -0.01,
+      "barcode_color": [
+        53,
+        44,
+        29
+      ],
+      "brightness": 16.07843137254902,
+      "saturation": 29.268292682926834,
+      "hue": 37.49999999999999,
+      "density": 9.5
+    },
+    {
+      "time": 2352.115098,
+      "sentiment": -0.01,
+      "barcode_color": [
+        39,
+        30,
+        17
+      ],
+      "brightness": 10.980392156862745,
+      "saturation": 39.28571428571429,
+      "hue": 35.454545454545446,
+      "density": 9.0
+    },
+    {
+      "time": 2361.794584,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        38,
+        32
+      ],
+      "brightness": 14.509803921568626,
+      "saturation": 13.513513513513514,
+      "hue": 36.0,
+      "density": 9.0
+    },
+    {
+      "time": 2371.47407,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        18,
+        15
+      ],
+      "brightness": 6.470588235294117,
+      "saturation": 9.090909090909092,
+      "hue": 80.0,
+      "density": 9.0
+    },
+    {
+      "time": 2381.153556,
+      "sentiment": 0.07,
+      "barcode_color": [
+        37,
+        34,
+        22
+      ],
+      "brightness": 11.568627450980392,
+      "saturation": 25.423728813559325,
+      "hue": 47.999999999999986,
+      "density": 9.0
+    },
+    {
+      "time": 2390.833042,
+      "sentiment": 0.12,
+      "barcode_color": [
+        71,
+        69,
+        49
+      ],
+      "brightness": 23.52941176470588,
+      "saturation": 18.333333333333332,
+      "hue": 54.545454545454525,
+      "density": 11.0
+    },
+    {
+      "time": 2400.512528,
+      "sentiment": 0.12,
+      "barcode_color": [
+        47,
+        48,
+        29
+      ],
+      "brightness": 15.098039215686274,
+      "saturation": 24.675324675324674,
+      "hue": 63.15789473684209,
+      "density": 11.0
+    },
+    {
+      "time": 2410.192014,
+      "sentiment": 0.19,
+      "barcode_color": [
+        35,
+        42,
+        30
+      ],
+      "brightness": 14.117647058823529,
+      "saturation": 16.666666666666664,
+      "hue": 94.99999999999999,
+      "density": 13.5
+    },
+    {
+      "time": 2419.8715,
+      "sentiment": 0.11,
+      "barcode_color": [
+        17,
+        28,
+        17
+      ],
+      "brightness": 8.823529411764705,
+      "saturation": 24.444444444444446,
+      "hue": 120.0,
+      "density": 15.5
+    },
+    {
+      "time": 2429.550986,
+      "sentiment": 0.12,
+      "barcode_color": [
+        5,
+        16,
+        6
+      ],
+      "brightness": 4.117647058823529,
+      "saturation": 52.38095238095239,
+      "hue": 125.45454545454544,
+      "density": 17.5
+    },
+    {
+      "time": 2439.230472,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        26,
+        16
+      ],
+      "brightness": 8.235294117647058,
+      "saturation": 23.809523809523807,
+      "hue": 114.0,
+      "density": 17.5
+    },
+    {
+      "time": 2448.909958,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        16,
+        7
+      ],
+      "brightness": 4.509803921568627,
+      "saturation": 39.130434782608695,
+      "hue": 113.33333333333334,
+      "density": 14.5
+    },
+    {
+      "time": 2458.589444,
+      "sentiment": -0.11,
+      "barcode_color": [
+        7,
+        20,
+        9
+      ],
+      "brightness": 5.294117647058823,
+      "saturation": 48.148148148148145,
+      "hue": 129.23076923076923,
+      "density": 11.0
+    },
+    {
+      "time": 2468.26893,
+      "sentiment": -0.11,
+      "barcode_color": [
+        89,
+        95,
+        86
+      ],
+      "brightness": 35.490196078431374,
+      "saturation": 4.972375690607732,
+      "hue": 100.00000000000007,
+      "density": 11.0
+    },
+    {
+      "time": 2477.948416,
+      "sentiment": -0.11,
+      "barcode_color": [
+        8,
+        16,
+        7
+      ],
+      "brightness": 4.509803921568627,
+      "saturation": 39.130434782608695,
+      "hue": 113.33333333333334,
+      "density": 8.5
+    },
+    {
+      "time": 2487.627902,
+      "sentiment": -0.01,
+      "barcode_color": [
+        48,
+        53,
+        40
+      ],
+      "brightness": 18.23529411764706,
+      "saturation": 13.978494623655916,
+      "hue": 83.0769230769231,
+      "density": 8.5
+    },
+    {
+      "time": 2497.307388,
+      "sentiment": -0.01,
+      "barcode_color": [
+        30,
+        34,
+        23
+      ],
+      "brightness": 11.176470588235293,
+      "saturation": 19.29824561403509,
+      "hue": 81.81818181818183,
+      "density": 8.5
+    },
+    {
+      "time": 2506.986874,
+      "sentiment": -0.01,
+      "barcode_color": [
+        13,
+        8,
+        7
+      ],
+      "brightness": 3.9215686274509802,
+      "saturation": 30.0,
+      "hue": 10.0,
+      "density": 8.5
+    },
+    {
+      "time": 2516.66636,
+      "sentiment": -0.02,
+      "barcode_color": [
+        22,
+        30,
+        32
+      ],
+      "brightness": 10.588235294117647,
+      "saturation": 18.51851851851852,
+      "hue": 192.0,
+      "density": 6.5
+    },
+    {
+      "time": 2526.345846,
+      "sentiment": -0.01,
+      "barcode_color": [
+        12,
+        22,
+        28
+      ],
+      "brightness": 7.8431372549019605,
+      "saturation": 40.0,
+      "hue": 202.5,
+      "density": 6.5
+    },
+    {
+      "time": 2536.025332,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        31,
+        37
+      ],
+      "brightness": 10.0,
+      "saturation": 45.09803921568628,
+      "hue": 195.6521739130435,
+      "density": 2.0
+    },
+    {
+      "time": 2545.704818,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        16,
+        24
+      ],
+      "brightness": 5.88235294117647,
+      "saturation": 60.0,
+      "hue": 206.66666666666666,
+      "density": 2.0
+    },
+    {
+      "time": 2555.384304,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        28,
+        33
+      ],
+      "brightness": 8.627450980392156,
+      "saturation": 50.000000000000014,
+      "hue": 193.63636363636365,
+      "density": 0.0
+    },
+    {
+      "time": 2565.06379,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        0,
+        8
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 100.0,
+      "hue": 240.0,
+      "density": 0.0
+    },
+    {
+      "time": 2574.743276,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        2,
+        12
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 71.42857142857143,
+      "hue": 245.99999999999997,
+      "density": 0.0
+    },
+    {
+      "time": 2584.422762,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        15,
+        18
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 24.137931034482758,
+      "hue": 205.71428571428575,
+      "density": 0.0
+    },
+    {
+      "time": 2594.102248,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        4,
+        3
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 33.33333333333333,
+      "hue": 150.0,
+      "density": 0.0
+    },
+    {
+      "time": 2603.7817340000006,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        2,
+        0
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 2613.4612200000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        9,
+        6
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 20.0,
+      "hue": 80.0,
+      "density": 0.0
+    },
+    {
+      "time": 2623.1407060000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        32,
+        25,
+        23
+      ],
+      "brightness": 10.784313725490197,
+      "saturation": 16.363636363636363,
+      "hue": 13.333333333333332,
+      "density": 0.0
+    },
+    {
+      "time": 2632.8201920000006,
+      "sentiment": -0.02,
+      "barcode_color": [
+        40,
+        21,
+        21
+      ],
+      "brightness": 11.960784313725489,
+      "saturation": 31.147540983606557,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 2642.4996780000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        25,
+        17
+      ],
+      "brightness": 11.568627450980392,
+      "saturation": 42.3728813559322,
+      "hue": 19.200000000000003,
+      "density": 0.0
+    },
+    {
+      "time": 2652.1791640000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        56,
+        46,
+        36
+      ],
+      "brightness": 18.03921568627451,
+      "saturation": 21.73913043478261,
+      "hue": 30.0,
+      "density": 0.0
+    },
+    {
+      "time": 2661.8586500000006,
+      "sentiment": -0.02,
+      "barcode_color": [
+        9,
+        4,
+        0
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 100.0,
+      "hue": 26.666666666666664,
+      "density": 0.0
+    },
+    {
+      "time": 2671.5381360000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        46,
+        32,
+        19
+      ],
+      "brightness": 12.745098039215685,
+      "saturation": 41.53846153846154,
+      "hue": 28.888888888888886,
+      "density": 0.0
+    },
+    {
+      "time": 2681.2176220000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        40,
+        38,
+        25
+      ],
+      "brightness": 12.745098039215685,
+      "saturation": 23.076923076923077,
+      "hue": 52.00000000000001,
+      "density": 0.0
+    },
+    {
+      "time": 2690.8971080000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        13,
+        6
+      ],
+      "brightness": 3.7254901960784315,
+      "saturation": 36.84210526315789,
+      "hue": 111.42857142857143,
+      "density": 0.0
+    },
+    {
+      "time": 2700.5765940000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        12,
+        16
+      ],
+      "brightness": 4.705882352941177,
+      "saturation": 33.33333333333333,
+      "hue": 210.0,
+      "density": 0.0
+    },
+    {
+      "time": 2710.2560800000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        19,
+        15,
+        14
+      ],
+      "brightness": 6.470588235294117,
+      "saturation": 15.151515151515152,
+      "hue": 12.0,
+      "density": 0.0
+    },
+    {
+      "time": 2719.9355660000006,
+      "sentiment": -0.01,
+      "barcode_color": [
+        47,
+        44,
+        36
+      ],
+      "brightness": 16.274509803921568,
+      "saturation": 13.253012048192774,
+      "hue": 43.636363636363626,
+      "density": 0.0
+    },
+    {
+      "time": 2729.615052,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        7,
+        3
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 75.0,
+      "hue": 140.0,
+      "density": 0.0
+    },
+    {
+      "time": 2739.294538,
+      "sentiment": -0.02,
+      "barcode_color": [
+        8,
+        10,
+        11
+      ],
+      "brightness": 3.7254901960784315,
+      "saturation": 15.789473684210526,
+      "hue": 200.0,
+      "density": 0.0
+    },
+    {
+      "time": 2748.974024,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        0,
+        0
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 2758.65351,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        0,
+        0
+      ],
+      "brightness": 0.0,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 2768.332996,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        2,
+        2
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 2778.012482,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        4,
+        3
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 33.33333333333333,
+      "hue": 20.0,
+      "density": 0.0
+    },
+    {
+      "time": 2787.691968,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        6,
+        4
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 20.0,
+      "hue": 60.0,
+      "density": 0.0
+    },
+    {
+      "time": 2797.371454,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        1,
+        1
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 2807.05094,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        3
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 200.0,
+      "density": 0.0
+    },
+    {
+      "time": 2816.730426,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        16,
+        17
+      ],
+      "brightness": 6.078431372549019,
+      "saturation": 9.67741935483871,
+      "hue": 200.0,
+      "density": 0.0
+    },
+    {
+      "time": 2826.409912,
+      "sentiment": -0.01,
+      "barcode_color": [
+        16,
+        12,
+        9
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 28.000000000000004,
+      "hue": 25.71428571428571,
+      "density": 0.0
+    },
+    {
+      "time": 2836.089398,
+      "sentiment": -0.01,
+      "barcode_color": [
+        13,
+        8,
+        7
+      ],
+      "brightness": 3.9215686274509802,
+      "saturation": 30.0,
+      "hue": 10.0,
+      "density": 0.0
+    },
+    {
+      "time": 2845.768884,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        2,
+        4
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 33.33333333333333,
+      "hue": 240.0,
+      "density": 0.0
+    },
+    {
+      "time": 2855.44837,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        2,
+        6
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 50.0,
+      "hue": 285.0,
+      "density": 0.0
+    },
+    {
+      "time": 2865.127856,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        2,
+        6
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 50.0,
+      "hue": 285.0,
+      "density": 0.0
+    },
+    {
+      "time": 2874.807342,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        0,
+        1
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 345.0,
+      "density": 0.0
+    },
+    {
+      "time": 2884.486828,
+      "sentiment": -0.01,
+      "barcode_color": [
+        20,
+        31,
+        23
+      ],
+      "brightness": 10.0,
+      "saturation": 21.56862745098039,
+      "hue": 136.36363636363635,
+      "density": 0.0
+    },
+    {
+      "time": 2894.166314,
+      "sentiment": -0.01,
+      "barcode_color": [
+        63,
+        64,
+        59
+      ],
+      "brightness": 24.11764705882353,
+      "saturation": 4.065040650406501,
+      "hue": 71.99999999999996,
+      "density": 0.0
+    },
+    {
+      "time": 2903.8458,
+      "sentiment": -0.01,
+      "barcode_color": [
+        33,
+        36,
+        35
+      ],
+      "brightness": 13.529411764705884,
+      "saturation": 4.347826086956516,
+      "hue": 160.00000000000006,
+      "density": 0.0
+    },
+    {
+      "time": 2913.525286,
+      "sentiment": -0.01,
+      "barcode_color": [
+        44,
+        56,
+        56
+      ],
+      "brightness": 19.607843137254903,
+      "saturation": 12.0,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 2923.204772,
+      "sentiment": -0.01,
+      "barcode_color": [
+        42,
+        53,
+        56
+      ],
+      "brightness": 19.215686274509803,
+      "saturation": 14.285714285714288,
+      "hue": 192.85714285714286,
+      "density": 0.0
+    },
+    {
+      "time": 2932.884258,
+      "sentiment": -0.01,
+      "barcode_color": [
+        39,
+        48,
+        49
+      ],
+      "brightness": 17.254901960784313,
+      "saturation": 11.363636363636363,
+      "hue": 186.00000000000003,
+      "density": 5.5
+    },
+    {
+      "time": 2942.563744,
+      "sentiment": -0.02,
+      "barcode_color": [
+        2,
+        9,
+        7
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 63.63636363636363,
+      "hue": 162.85714285714286,
+      "density": 8.0
+    },
+    {
+      "time": 2952.24323,
+      "sentiment": -0.02,
+      "barcode_color": [
+        9,
+        19,
+        13
+      ],
+      "brightness": 5.490196078431373,
+      "saturation": 35.714285714285715,
+      "hue": 144.0,
+      "density": 10.0
+    },
+    {
+      "time": 2961.922716,
+      "sentiment": -0.02,
+      "barcode_color": [
+        4,
+        9,
+        7
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 38.46153846153847,
+      "hue": 156.0,
+      "density": 10.0
+    },
+    {
+      "time": 2971.602202,
+      "sentiment": -0.03,
+      "barcode_color": [
+        36,
+        50,
+        47
+      ],
+      "brightness": 16.862745098039216,
+      "saturation": 16.279069767441857,
+      "hue": 167.14285714285717,
+      "density": 10.0
+    },
+    {
+      "time": 2981.281688,
+      "sentiment": -0.24,
+      "barcode_color": [
+        9,
+        9,
+        9
+      ],
+      "brightness": 3.5294117647058822,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 10.0
+    },
+    {
+      "time": 2990.961174,
+      "sentiment": -0.23,
+      "barcode_color": [
+        28,
+        30,
+        27
+      ],
+      "brightness": 11.176470588235293,
+      "saturation": 5.2631578947368425,
+      "hue": 100.0,
+      "density": 10.0
+    },
+    {
+      "time": 3000.64066,
+      "sentiment": -0.23,
+      "barcode_color": [
+        1,
+        9,
+        11
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 83.33333333333334,
+      "hue": 192.0,
+      "density": 10.0
+    },
+    {
+      "time": 3010.320146,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        11,
+        13
+      ],
+      "brightness": 3.5294117647058822,
+      "saturation": 44.44444444444444,
+      "hue": 195.0,
+      "density": 10.0
+    },
+    {
+      "time": 3019.999632,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        9,
+        14
+      ],
+      "brightness": 3.3333333333333335,
+      "saturation": 64.70588235294117,
+      "hue": 207.27272727272728,
+      "density": 10.0
+    },
+    {
+      "time": 3029.6791180000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        4,
+        8
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 100.0,
+      "hue": 210.0,
+      "density": 10.0
+    },
+    {
+      "time": 3039.3586040000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        15,
+        17
+      ],
+      "brightness": 4.509803921568627,
+      "saturation": 47.82608695652174,
+      "hue": 190.9090909090909,
+      "density": 10.0
+    },
+    {
+      "time": 3049.0380900000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        5,
+        10
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 100.0,
+      "hue": 210.0,
+      "density": 10.0
+    },
+    {
+      "time": 3058.7175760000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        23,
+        25
+      ],
+      "brightness": 6.2745098039215685,
+      "saturation": 56.25,
+      "hue": 186.66666666666666,
+      "density": 4.5
+    },
+    {
+      "time": 3068.3970620000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        5,
+        10
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 100.0,
+      "hue": 210.0,
+      "density": 0.0
+    },
+    {
+      "time": 3078.0765480000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        7,
+        13
+      ],
+      "brightness": 3.3333333333333335,
+      "saturation": 52.94117647058824,
+      "hue": 219.99999999999997,
+      "density": 0.0
+    },
+    {
+      "time": 3087.7560340000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        5,
+        8
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 100.0,
+      "hue": 202.5,
+      "density": 0.0
+    },
+    {
+      "time": 3097.4355200000005,
+      "sentiment": -0.02,
+      "barcode_color": [
+        5,
+        14,
+        16
+      ],
+      "brightness": 4.117647058823529,
+      "saturation": 52.38095238095239,
+      "hue": 190.9090909090909,
+      "density": 0.0
+    },
+    {
+      "time": 3107.1150060000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        15,
+        14
+      ],
+      "brightness": 3.7254901960784315,
+      "saturation": 57.89473684210527,
+      "hue": 174.54545454545456,
+      "density": 0.0
+    },
+    {
+      "time": 3116.7944920000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        13,
+        27,
+        24
+      ],
+      "brightness": 7.8431372549019605,
+      "saturation": 35.0,
+      "hue": 167.14285714285714,
+      "density": 0.0
+    },
+    {
+      "time": 3126.4739780000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        18,
+        16
+      ],
+      "brightness": 4.705882352941177,
+      "saturation": 50.0,
+      "hue": 170.00000000000003,
+      "density": 0.0
+    },
+    {
+      "time": 3136.1534640000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        6,
+        6
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 3145.8329500000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        3
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 200.0,
+      "density": 0.0
+    },
+    {
+      "time": 3155.5124360000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        13,
+        17,
+        20
+      ],
+      "brightness": 6.470588235294117,
+      "saturation": 21.212121212121215,
+      "hue": 205.71428571428575,
+      "density": 0.0
+    },
+    {
+      "time": 3165.1919220000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        37,
+        39,
+        40
+      ],
+      "brightness": 15.098039215686276,
+      "saturation": 3.896103896103891,
+      "hue": 199.99999999999997,
+      "density": 0.0
+    },
+    {
+      "time": 3174.8714080000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        5,
+        9
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 50.0,
+      "hue": 219.99999999999997,
+      "density": 0.0
+    },
+    {
+      "time": 3184.5508940000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        7,
+        6
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 27.27272727272727,
+      "hue": 160.0,
+      "density": 0.0
+    },
+    {
+      "time": 3194.2303800000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        1,
+        3,
+        4
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 60.0,
+      "hue": 200.0,
+      "density": 0.0
+    },
+    {
+      "time": 3203.9098660000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        4,
+        4
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 3213.5893520000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        3,
+        4,
+        0
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 75.0,
+      "density": 0.0
+    },
+    {
+      "time": 3223.2688380000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        4,
+        1
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 60.0,
+      "hue": 80.0,
+      "density": 0.0
+    },
+    {
+      "time": 3232.9483240000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        0
+      ],
+      "brightness": 0.19607843137254902,
+      "saturation": 100.0,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 3242.6278100000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        0,
+        0
+      ],
+      "brightness": 0.0,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 0.0
+    },
+    {
+      "time": 3252.3072960000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        16,
+        17
+      ],
+      "brightness": 6.078431372549019,
+      "saturation": 9.67741935483871,
+      "hue": 200.0,
+      "density": 0.0
+    },
+    {
+      "time": 3261.9867820000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        5
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 228.0,
+      "density": 0.0
+    },
+    {
+      "time": 3271.6662680000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        5,
+        4,
+        9
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 38.46153846153847,
+      "hue": 252.00000000000003,
+      "density": 0.0
+    },
+    {
+      "time": 3281.3457540000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        7,
+        11
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 37.5,
+      "hue": 219.99999999999997,
+      "density": 0.0
+    },
+    {
+      "time": 3291.0252400000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        11,
+        11
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 37.5,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 3300.7047260000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        7,
+        4
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 27.27272727272727,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 3310.3842120000004,
+      "sentiment": -0.01,
+      "barcode_color": [
+        25,
+        17,
+        11
+      ],
+      "brightness": 7.0588235294117645,
+      "saturation": 38.88888888888889,
+      "hue": 25.71428571428571,
+      "density": 0.0
+    },
+    {
+      "time": 3320.0636980000004,
+      "sentiment": -0.02,
+      "barcode_color": [
+        14,
+        9,
+        0
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 100.0,
+      "hue": 38.57142857142858,
+      "density": 0.0
+    },
+    {
+      "time": 3329.743184,
+      "sentiment": -0.01,
+      "barcode_color": [
+        15,
+        12,
+        4
+      ],
+      "brightness": 3.7254901960784315,
+      "saturation": 57.89473684210527,
+      "hue": 43.63636363636364,
+      "density": 0.0
+    },
+    {
+      "time": 3339.42267,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        4,
+        0
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 100.0,
+      "hue": 30.0,
+      "density": 0.0
+    },
+    {
+      "time": 3349.102156,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        3,
+        0
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 36.0,
+      "density": 0.0
+    },
+    {
+      "time": 3358.781642,
+      "sentiment": -0.02,
+      "barcode_color": [
+        9,
+        10,
+        5
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 33.33333333333333,
+      "hue": 72.0,
+      "density": 0.0
+    },
+    {
+      "time": 3368.461128,
+      "sentiment": -0.02,
+      "barcode_color": [
+        11,
+        14,
+        11
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 12.0,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 3378.140614,
+      "sentiment": -0.02,
+      "barcode_color": [
+        21,
+        17,
+        12
+      ],
+      "brightness": 6.470588235294117,
+      "saturation": 27.272727272727277,
+      "hue": 33.333333333333336,
+      "density": 0.0
+    },
+    {
+      "time": 3387.8201,
+      "sentiment": -0.01,
+      "barcode_color": [
+        12,
+        7,
+        4
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 50.0,
+      "hue": 22.5,
+      "density": 0.0
+    },
+    {
+      "time": 3397.499586,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        4,
+        3
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 45.45454545454545,
+      "hue": 12.0,
+      "density": 2.0
+    },
+    {
+      "time": 3407.179072,
+      "sentiment": -0.01,
+      "barcode_color": [
+        12,
+        7,
+        4
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 50.0,
+      "hue": 22.5,
+      "density": 6.5
+    },
+    {
+      "time": 3416.858558,
+      "sentiment": -0.02,
+      "barcode_color": [
+        10,
+        6,
+        3
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 53.84615384615385,
+      "hue": 25.71428571428571,
+      "density": 9.5
+    },
+    {
+      "time": 3426.538044,
+      "sentiment": -0.02,
+      "barcode_color": [
+        23,
+        7,
+        6
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 58.620689655172406,
+      "hue": 3.5294117647058822,
+      "density": 12.5
+    },
+    {
+      "time": 3436.21753,
+      "sentiment": -0.15,
+      "barcode_color": [
+        38,
+        15,
+        2
+      ],
+      "brightness": 7.8431372549019605,
+      "saturation": 90.0,
+      "hue": 21.666666666666664,
+      "density": 22.5
+    },
+    {
+      "time": 3445.897016,
+      "sentiment": -0.15,
+      "barcode_color": [
+        50,
+        23,
+        9
+      ],
+      "brightness": 11.568627450980392,
+      "saturation": 69.4915254237288,
+      "hue": 20.48780487804878,
+      "density": 26.0
+    },
+    {
+      "time": 3455.5765020000003,
+      "sentiment": -0.15,
+      "barcode_color": [
+        26,
+        17,
+        1
+      ],
+      "brightness": 5.294117647058823,
+      "saturation": 92.5925925925926,
+      "hue": 38.400000000000006,
+      "density": 38.5
+    },
+    {
+      "time": 3465.2559880000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        34,
+        19,
+        0
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 100.0,
+      "hue": 33.529411764705884,
+      "density": 41.0
+    },
+    {
+      "time": 3474.9354740000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        53,
+        36,
+        12
+      ],
+      "brightness": 12.745098039215685,
+      "saturation": 63.07692307692309,
+      "hue": 35.12195121951219,
+      "density": 41.0
+    },
+    {
+      "time": 3484.6149600000003,
+      "sentiment": -0.11,
+      "barcode_color": [
+        24,
+        19,
+        5
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 65.51724137931035,
+      "hue": 44.21052631578947,
+      "density": 44.0
+    },
+    {
+      "time": 3494.2944460000003,
+      "sentiment": -0.21,
+      "barcode_color": [
+        6,
+        8,
+        7
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 14.285714285714285,
+      "hue": 150.0,
+      "density": 46.0
+    },
+    {
+      "time": 3503.9739320000003,
+      "sentiment": -0.21,
+      "barcode_color": [
+        8,
+        10,
+        9
+      ],
+      "brightness": 3.5294117647058822,
+      "saturation": 11.11111111111111,
+      "hue": 150.0,
+      "density": 48.5
+    },
+    {
+      "time": 3513.6534180000003,
+      "sentiment": -0.12,
+      "barcode_color": [
+        16,
+        18,
+        18
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 5.88235294117647,
+      "hue": 180.0,
+      "density": 53.0
+    },
+    {
+      "time": 3523.3329040000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        1,
+        1
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 50.0,
+      "hue": 0.0,
+      "density": 49.5
+    },
+    {
+      "time": 3533.0123900000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        31,
+        21,
+        25
+      ],
+      "brightness": 10.196078431372548,
+      "saturation": 19.230769230769234,
+      "hue": 335.99999999999994,
+      "density": 48.0
+    },
+    {
+      "time": 3542.6918760000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        10,
+        7,
+        10
+      ],
+      "brightness": 3.3333333333333335,
+      "saturation": 17.647058823529413,
+      "hue": 300.0,
+      "density": 56.0
+    },
+    {
+      "time": 3552.3713620000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        14,
+        14,
+        14
+      ],
+      "brightness": 5.490196078431373,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 55.0
+    },
+    {
+      "time": 3562.0508480000003,
+      "sentiment": -0.17,
+      "barcode_color": [
+        4,
+        2,
+        0
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 30.0,
+      "density": 47.0
+    },
+    {
+      "time": 3571.7303340000003,
+      "sentiment": -0.29,
+      "barcode_color": [
+        0,
+        0,
+        0
+      ],
+      "brightness": 0.0,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 43.0
+    },
+    {
+      "time": 3581.4098200000003,
+      "sentiment": -0.27,
+      "barcode_color": [
+        0,
+        6,
+        4
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 160.0,
+      "density": 39.5
+    },
+    {
+      "time": 3591.0893060000003,
+      "sentiment": -0.05,
+      "barcode_color": [
+        0,
+        5,
+        8
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 100.0,
+      "hue": 202.5,
+      "density": 39.5
+    },
+    {
+      "time": 3600.7687920000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        0,
+        3
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 240.0,
+      "density": 38.0
+    },
+    {
+      "time": 3610.4482780000003,
+      "sentiment": -0.17,
+      "barcode_color": [
+        7,
+        10,
+        6
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 25.0,
+      "hue": 105.0,
+      "density": 34.5
+    },
+    {
+      "time": 3620.1277640000003,
+      "sentiment": -0.23,
+      "barcode_color": [
+        21,
+        24,
+        18
+      ],
+      "brightness": 8.235294117647058,
+      "saturation": 14.285714285714285,
+      "hue": 90.0,
+      "density": 32.0
+    },
+    {
+      "time": 3629.8072500000003,
+      "sentiment": -0.19,
+      "barcode_color": [
+        3,
+        6,
+        3
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 33.33333333333333,
+      "hue": 120.0,
+      "density": 27.5
+    },
+    {
+      "time": 3639.4867360000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        8,
+        2
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 60.0,
+      "hue": 100.0,
+      "density": 25.5
+    },
+    {
+      "time": 3649.1662220000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        3
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 200.0,
+      "density": 23.0
+    },
+    {
+      "time": 3658.8457080000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        4,
+        4
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 46.666666666666664,
+      "hue": 0.0,
+      "density": 16.0
+    },
+    {
+      "time": 3668.5251940000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        0,
+        3
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 300.0,
+      "density": 11.5
+    },
+    {
+      "time": 3678.2046800000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        1,
+        0
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 20.0,
+      "density": 8.0
+    },
+    {
+      "time": 3687.8841660000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        9,
+        6
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 20.0,
+      "hue": 80.0,
+      "density": 4.0
+    },
+    {
+      "time": 3697.5636520000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        5,
+        3
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 25.0,
+      "hue": 60.0,
+      "density": 0.0
+    },
+    {
+      "time": 3707.2431380000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        3,
+        0
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 80.0,
+      "density": 0.0
+    },
+    {
+      "time": 3716.9226240000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        22,
+        4,
+        3
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 76.0,
+      "hue": 3.1578947368421053,
+      "density": 3.5
+    },
+    {
+      "time": 3726.6021100000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        2,
+        0
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 20.0,
+      "density": 3.5
+    },
+    {
+      "time": 3736.2815960000003,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        0,
+        0
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 3.5
+    },
+    {
+      "time": 3745.9610820000003,
+      "sentiment": -0.02,
+      "barcode_color": [
+        19,
+        0,
+        3
+      ],
+      "brightness": 3.7254901960784315,
+      "saturation": 100.0,
+      "hue": 350.5263157894737,
+      "density": 3.5
+    },
+    {
+      "time": 3755.6405680000003,
+      "sentiment": -0.11,
+      "barcode_color": [
+        5,
+        0,
+        0
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 3.5
+    },
+    {
+      "time": 3765.3200540000003,
+      "sentiment": -0.11,
+      "barcode_color": [
+        2,
+        0,
+        0
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 3.5
+    },
+    {
+      "time": 3774.9995400000003,
+      "sentiment": -0.12,
+      "barcode_color": [
+        22,
+        6,
+        7
+      ],
+      "brightness": 5.490196078431373,
+      "saturation": 57.14285714285714,
+      "hue": 356.25,
+      "density": 3.5
+    },
+    {
+      "time": 3784.6790260000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        0,
+        0
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 3.5
+    },
+    {
+      "time": 3794.3585120000002,
+      "sentiment": -0.02,
+      "barcode_color": [
+        9,
+        5,
+        4
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 38.46153846153847,
+      "hue": 12.0,
+      "density": 3.5
+    },
+    {
+      "time": 3804.0379980000002,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        4,
+        5
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 20.0,
+      "hue": 330.0,
+      "density": 3.5
+    },
+    {
+      "time": 3813.7174840000007,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        0,
+        0
+      ],
+      "brightness": 0.0,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 3.5
+    },
+    {
+      "time": 3823.3969700000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        4,
+        3
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 45.45454545454545,
+      "hue": 12.0,
+      "density": 3.5
+    },
+    {
+      "time": 3833.0764560000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        0,
+        0
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 0.0,
+      "density": 3.5
+    },
+    {
+      "time": 3842.7559420000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        9,
+        12
+      ],
+      "brightness": 3.3333333333333335,
+      "saturation": 41.17647058823529,
+      "hue": 205.71428571428575,
+      "density": 0.0
+    },
+    {
+      "time": 3852.4354280000007,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        5,
+        12
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 100.0,
+      "hue": 215.0,
+      "density": 0.0
+    },
+    {
+      "time": 3862.1149140000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        1,
+        5
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 66.66666666666666,
+      "hue": 240.0,
+      "density": 0.0
+    },
+    {
+      "time": 3871.7944000000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        5
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 228.0,
+      "density": 0.0
+    },
+    {
+      "time": 3881.4738860000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        0,
+        4
+      ],
+      "brightness": 0.7843137254901961,
+      "saturation": 100.0,
+      "hue": 240.0,
+      "density": 0.0
+    },
+    {
+      "time": 3891.1533720000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        14,
+        12
+      ],
+      "brightness": 4.117647058823529,
+      "saturation": 33.33333333333333,
+      "hue": 162.85714285714286,
+      "density": 0.0
+    },
+    {
+      "time": 3900.8328580000007,
+      "sentiment": -0.02,
+      "barcode_color": [
+        7,
+        21,
+        18
+      ],
+      "brightness": 5.490196078431373,
+      "saturation": 50.0,
+      "hue": 167.14285714285714,
+      "density": 0.0
+    },
+    {
+      "time": 3910.5123440000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        7,
+        7
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 3920.1918300000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        27,
+        26
+      ],
+      "brightness": 7.450980392156863,
+      "saturation": 42.10526315789473,
+      "hue": 176.25,
+      "density": 0.0
+    },
+    {
+      "time": 3929.8713160000007,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        9,
+        4
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 80.0,
+      "hue": 142.5,
+      "density": 0.0
+    },
+    {
+      "time": 3939.550802,
+      "sentiment": -0.01,
+      "barcode_color": [
+        21,
+        32,
+        35
+      ],
+      "brightness": 10.980392156862745,
+      "saturation": 25.000000000000007,
+      "hue": 192.85714285714286,
+      "density": 0.0
+    },
+    {
+      "time": 3949.230288,
+      "sentiment": -0.01,
+      "barcode_color": [
+        7,
+        15,
+        19
+      ],
+      "brightness": 5.098039215686274,
+      "saturation": 46.15384615384615,
+      "hue": 200.0,
+      "density": 9.0
+    },
+    {
+      "time": 3958.909774,
+      "sentiment": -0.01,
+      "barcode_color": [
+        15,
+        21,
+        26
+      ],
+      "brightness": 8.03921568627451,
+      "saturation": 26.82926829268293,
+      "hue": 207.27272727272728,
+      "density": 14.5
+    },
+    {
+      "time": 3968.58926,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        6
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 230.00000000000003,
+      "density": 14.5
+    },
+    {
+      "time": 3978.268746,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        8,
+        13
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 73.33333333333333,
+      "hue": 207.27272727272728,
+      "density": 14.5
+    },
+    {
+      "time": 3987.948232,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        3,
+        7
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 214.28571428571428,
+      "density": 16.0
+    },
+    {
+      "time": 3997.627718,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        7
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 100.0,
+      "hue": 222.85714285714286,
+      "density": 16.5
+    },
+    {
+      "time": 4007.307204,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        5
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 228.0,
+      "density": 16.5
+    },
+    {
+      "time": 4016.98669,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        5
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 228.0,
+      "density": 16.5
+    },
+    {
+      "time": 4026.666176,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        3,
+        7
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 75.0,
+      "hue": 219.99999999999997,
+      "density": 16.5
+    },
+    {
+      "time": 4036.345662,
+      "sentiment": -0.02,
+      "barcode_color": [
+        14,
+        18,
+        22
+      ],
+      "brightness": 7.0588235294117645,
+      "saturation": 22.22222222222222,
+      "hue": 210.0,
+      "density": 16.5
+    },
+    {
+      "time": 4046.025148,
+      "sentiment": -0.01,
+      "barcode_color": [
+        12,
+        30,
+        33
+      ],
+      "brightness": 8.823529411764707,
+      "saturation": 46.66666666666667,
+      "hue": 188.57142857142858,
+      "density": 16.5
+    },
+    {
+      "time": 4055.704634,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        12,
+        20
+      ],
+      "brightness": 3.9215686274509802,
+      "saturation": 100.0,
+      "hue": 204.0,
+      "density": 16.5
+    },
+    {
+      "time": 4065.38412,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        12,
+        18
+      ],
+      "brightness": 3.5294117647058822,
+      "saturation": 100.0,
+      "hue": 200.0,
+      "density": 10.0
+    },
+    {
+      "time": 4075.063606,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        6
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 230.00000000000003,
+      "density": 3.5
+    },
+    {
+      "time": 4084.743092,
+      "sentiment": -0.01,
+      "barcode_color": [
+        19,
+        19,
+        19
+      ],
+      "brightness": 7.450980392156863,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 4094.422578,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        11,
+        11
+      ],
+      "brightness": 4.313725490196078,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 4104.102064000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        6,
+        12
+      ],
+      "brightness": 3.1372549019607843,
+      "saturation": 50.0,
+      "hue": 225.0,
+      "density": 0.5
+    },
+    {
+      "time": 4113.781550000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        6
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 230.00000000000003,
+      "density": 0.0
+    },
+    {
+      "time": 4123.461036000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        5
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 216.0,
+      "density": 0.0
+    },
+    {
+      "time": 4133.140522000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        8,
+        9
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 38.46153846153847,
+      "hue": 192.0,
+      "density": 0.0
+    },
+    {
+      "time": 4142.820008000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        8,
+        7
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 14.285714285714285,
+      "hue": 150.0,
+      "density": 0.0
+    },
+    {
+      "time": 4152.499494000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        1,
+        0
+      ],
+      "brightness": 0.19607843137254902,
+      "saturation": 100.0,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 4162.178980000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        6,
+        3
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 33.33333333333333,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 4171.858466000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        4,
+        7,
+        4
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 27.27272727272727,
+      "hue": 120.0,
+      "density": 0.0
+    },
+    {
+      "time": 4181.537952000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        22,
+        18
+      ],
+      "brightness": 7.647058823529412,
+      "saturation": 12.82051282051282,
+      "hue": 132.0,
+      "density": 0.0
+    },
+    {
+      "time": 4191.217438000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        10,
+        19,
+        18
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 31.03448275862069,
+      "hue": 173.33333333333331,
+      "density": 0.0
+    },
+    {
+      "time": 4200.896924000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        6,
+        18,
+        16
+      ],
+      "brightness": 4.705882352941177,
+      "saturation": 50.0,
+      "hue": 170.00000000000003,
+      "density": 0.0
+    },
+    {
+      "time": 4210.576410000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        5,
+        5
+      ],
+      "brightness": 0.9803921568627451,
+      "saturation": 100.0,
+      "hue": 180.0,
+      "density": 0.0
+    },
+    {
+      "time": 4220.255896000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        15,
+        14
+      ],
+      "brightness": 3.9215686274509802,
+      "saturation": 50.0,
+      "hue": 174.0,
+      "density": 0.0
+    },
+    {
+      "time": 4229.935382000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        13,
+        6
+      ],
+      "brightness": 2.549019607843137,
+      "saturation": 100.0,
+      "hue": 147.6923076923077,
+      "density": 0.0
+    },
+    {
+      "time": 4239.614868000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        10,
+        14,
+        15
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 20.0,
+      "hue": 192.0,
+      "density": 0.0
+    },
+    {
+      "time": 4249.294354000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        5,
+        23,
+        26
+      ],
+      "brightness": 6.078431372549019,
+      "saturation": 67.74193548387096,
+      "hue": 188.57142857142858,
+      "density": 0.0
+    },
+    {
+      "time": 4258.973840000001,
+      "sentiment": -0.02,
+      "barcode_color": [
+        0,
+        7,
+        8
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 100.0,
+      "hue": 187.5,
+      "density": 3.0
+    },
+    {
+      "time": 4268.653326000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        16,
+        16
+      ],
+      "brightness": 3.5294117647058822,
+      "saturation": 77.77777777777779,
+      "hue": 180.0,
+      "density": 3.0
+    },
+    {
+      "time": 4278.332812000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        10,
+        11
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 83.33333333333334,
+      "hue": 186.00000000000003,
+      "density": 3.0
+    },
+    {
+      "time": 4288.012298000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        33,
+        44,
+        45
+      ],
+      "brightness": 15.294117647058824,
+      "saturation": 15.384615384615383,
+      "hue": 185.00000000000003,
+      "density": 6.0
+    },
+    {
+      "time": 4297.691784000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        10,
+        8
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 100.0,
+      "hue": 167.99999999999997,
+      "density": 6.0
+    },
+    {
+      "time": 4307.371270000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        10,
+        10
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 33.33333333333333,
+      "hue": 180.0,
+      "density": 6.0
+    },
+    {
+      "time": 4317.050756000001,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        2
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 210.0,
+      "density": 6.0
+    },
+    {
+      "time": 4326.7302420000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        2
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 210.0,
+      "density": 6.0
+    },
+    {
+      "time": 4336.4097280000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        1,
+        0
+      ],
+      "brightness": 0.19607843137254902,
+      "saturation": 100.0,
+      "hue": 120.0,
+      "density": 6.0
+    },
+    {
+      "time": 4346.0892140000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        8,
+        6
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 45.45454545454545,
+      "hue": 156.0,
+      "density": 6.0
+    },
+    {
+      "time": 4355.7687000000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        3,
+        1
+      ],
+      "brightness": 0.5882352941176471,
+      "saturation": 100.0,
+      "hue": 140.0,
+      "density": 6.5
+    },
+    {
+      "time": 4365.4481860000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        7,
+        8
+      ],
+      "brightness": 2.156862745098039,
+      "saturation": 45.45454545454545,
+      "hue": 192.0,
+      "density": 6.5
+    },
+    {
+      "time": 4375.1276720000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        1,
+        8,
+        8
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 77.77777777777779,
+      "hue": 180.0,
+      "density": 3.5
+    },
+    {
+      "time": 4384.8071580000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        9,
+        13,
+        14
+      ],
+      "brightness": 4.509803921568627,
+      "saturation": 21.73913043478261,
+      "hue": 192.0,
+      "density": 3.5
+    },
+    {
+      "time": 4394.4866440000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        5,
+        10
+      ],
+      "brightness": 1.9607843137254901,
+      "saturation": 100.0,
+      "hue": 210.0,
+      "density": 3.5
+    },
+    {
+      "time": 4404.1661300000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        26,
+        34
+      ],
+      "brightness": 7.0588235294117645,
+      "saturation": 88.88888888888889,
+      "hue": 195.0,
+      "density": 0.5
+    },
+    {
+      "time": 4413.8456160000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        17,
+        25
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 100.0,
+      "hue": 199.20000000000002,
+      "density": 0.5
+    },
+    {
+      "time": 4423.5251020000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        3,
+        10
+      ],
+      "brightness": 2.3529411764705883,
+      "saturation": 66.66666666666666,
+      "hue": 232.5,
+      "density": 0.5
+    },
+    {
+      "time": 4433.2045880000005,
+      "sentiment": -0.02,
+      "barcode_color": [
+        1,
+        1,
+        5
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 66.66666666666666,
+      "hue": 240.0,
+      "density": 0.5
+    },
+    {
+      "time": 4442.8840740000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        25,
+        25,
+        23
+      ],
+      "brightness": 9.411764705882353,
+      "saturation": 4.166666666666666,
+      "hue": 60.0,
+      "density": 4.5
+    },
+    {
+      "time": 4452.5635600000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        10,
+        3
+      ],
+      "brightness": 2.7450980392156863,
+      "saturation": 57.14285714285714,
+      "hue": 52.5,
+      "density": 4.5
+    },
+    {
+      "time": 4462.2430460000005,
+      "sentiment": -0.22,
+      "barcode_color": [
+        48,
+        49,
+        44
+      ],
+      "brightness": 18.23529411764706,
+      "saturation": 5.376344086021509,
+      "hue": 72.00000000000003,
+      "density": 4.5
+    },
+    {
+      "time": 4471.9225320000005,
+      "sentiment": -0.69,
+      "barcode_color": [
+        50,
+        50,
+        50
+      ],
+      "brightness": 19.607843137254903,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 4.0
+    },
+    {
+      "time": 4481.6020180000005,
+      "sentiment": -0.69,
+      "barcode_color": [
+        6,
+        5,
+        1
+      ],
+      "brightness": 1.3725490196078431,
+      "saturation": 71.42857142857143,
+      "hue": 48.0,
+      "density": 4.0
+    },
+    {
+      "time": 4491.2815040000005,
+      "sentiment": -0.47,
+      "barcode_color": [
+        9,
+        10,
+        5
+      ],
+      "brightness": 2.941176470588235,
+      "saturation": 33.33333333333333,
+      "hue": 72.0,
+      "density": 4.0
+    },
+    {
+      "time": 4500.9609900000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        16,
+        24,
+        17
+      ],
+      "brightness": 7.8431372549019605,
+      "saturation": 20.0,
+      "hue": 127.5,
+      "density": 4.0
+    },
+    {
+      "time": 4510.6404760000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        108,
+        94,
+        81
+      ],
+      "brightness": 37.05882352941177,
+      "saturation": 14.285714285714288,
+      "hue": 28.888888888888907,
+      "density": 4.0
+    },
+    {
+      "time": 4520.3199620000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        21,
+        18,
+        8
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 44.827586206896555,
+      "hue": 46.15384615384616,
+      "density": 4.0
+    },
+    {
+      "time": 4529.9994480000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        15,
+        11,
+        6
+      ],
+      "brightness": 4.117647058823529,
+      "saturation": 42.857142857142854,
+      "hue": 33.333333333333336,
+      "density": 4.0
+    },
+    {
+      "time": 4539.6789340000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        29,
+        30,
+        25
+      ],
+      "brightness": 10.784313725490197,
+      "saturation": 9.09090909090909,
+      "hue": 72.0,
+      "density": 4.0
+    },
+    {
+      "time": 4549.3584200000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        6,
+        0
+      ],
+      "brightness": 1.1764705882352942,
+      "saturation": 100.0,
+      "hue": 120.0,
+      "density": 4.0
+    },
+    {
+      "time": 4559.0379060000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        2,
+        7,
+        1
+      ],
+      "brightness": 1.5686274509803921,
+      "saturation": 75.0,
+      "hue": 109.99999999999999,
+      "density": 2.5
+    },
+    {
+      "time": 4568.7173920000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        38,
+        36,
+        32
+      ],
+      "brightness": 13.725490196078432,
+      "saturation": 8.57142857142857,
+      "hue": 40.0,
+      "density": 0.0
+    },
+    {
+      "time": 4578.3968780000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        71,
+        72,
+        67
+      ],
+      "brightness": 27.254901960784316,
+      "saturation": 3.5971223021582706,
+      "hue": 71.99999999999996,
+      "density": 0.0
+    },
+    {
+      "time": 4588.0763640000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        11,
+        7
+      ],
+      "brightness": 3.5294117647058822,
+      "saturation": 22.22222222222222,
+      "hue": 60.0,
+      "density": 3.0
+    },
+    {
+      "time": 4597.7558500000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        17,
+        10
+      ],
+      "brightness": 5.294117647058823,
+      "saturation": 25.925925925925924,
+      "hue": 111.42857142857143,
+      "density": 3.5
+    },
+    {
+      "time": 4607.4353360000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        35,
+        41,
+        33
+      ],
+      "brightness": 14.50980392156863,
+      "saturation": 10.81081081081081,
+      "hue": 105.0,
+      "density": 3.5
+    },
+    {
+      "time": 4617.1148220000005,
+      "sentiment": -0.02,
+      "barcode_color": [
+        13,
+        14,
+        7
+      ],
+      "brightness": 4.117647058823529,
+      "saturation": 33.33333333333333,
+      "hue": 68.57142857142857,
+      "density": 3.5
+    },
+    {
+      "time": 4626.7943080000005,
+      "sentiment": -0.01,
+      "barcode_color": [
+        11,
+        14,
+        13
+      ],
+      "brightness": 4.901960784313726,
+      "saturation": 12.0,
+      "hue": 160.0,
+      "density": 3.5
+    },
+    {
+      "time": 4636.473794,
+      "sentiment": -0.01,
+      "barcode_color": [
+        8,
+        15,
+        13
+      ],
+      "brightness": 4.509803921568627,
+      "saturation": 30.434782608695656,
+      "hue": 162.85714285714286,
+      "density": 3.5
+    },
+    {
+      "time": 4646.15328,
+      "sentiment": -0.01,
+      "barcode_color": [
+        44,
+        46,
+        38
+      ],
+      "brightness": 16.470588235294116,
+      "saturation": 9.523809523809524,
+      "hue": 75.0,
+      "density": 3.5
+    },
+    {
+      "time": 4655.832766,
+      "sentiment": -0.02,
+      "barcode_color": [
+        124,
+        117,
+        105
+      ],
+      "brightness": 44.90196078431372,
+      "saturation": 8.29694323144105,
+      "hue": 37.89473684210525,
+      "density": 3.5
+    },
+    {
+      "time": 4665.512252,
+      "sentiment": -0.02,
+      "barcode_color": [
+        40,
+        40,
+        26
+      ],
+      "brightness": 12.941176470588234,
+      "saturation": 21.212121212121215,
+      "hue": 60.0,
+      "density": 3.5
+    },
+    {
+      "time": 4675.191738,
+      "sentiment": -0.01,
+      "barcode_color": [
+        9,
+        11,
+        11
+      ],
+      "brightness": 3.9215686274509802,
+      "saturation": 10.0,
+      "hue": 180.0,
+      "density": 3.5
+    },
+    {
+      "time": 4684.871224,
+      "sentiment": -0.01,
+      "barcode_color": [
+        15,
+        16,
+        13
+      ],
+      "brightness": 5.686274509803922,
+      "saturation": 10.344827586206897,
+      "hue": 80.0,
+      "density": 3.5
+    },
+    {
+      "time": 4694.55071,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        17,
+        13
+      ],
+      "brightness": 5.88235294117647,
+      "saturation": 13.333333333333334,
+      "hue": 105.0,
+      "density": 3.5
+    },
+    {
+      "time": 4704.230196,
+      "sentiment": -0.01,
+      "barcode_color": [
+        3,
+        6,
+        3
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 33.33333333333333,
+      "hue": 120.0,
+      "density": 3.5
+    },
+    {
+      "time": 4713.909682,
+      "sentiment": -0.01,
+      "barcode_color": [
+        0,
+        2,
+        1
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 150.0,
+      "density": 0.0
+    },
+    {
+      "time": 4723.589168,
+      "sentiment": -0.01,
+      "barcode_color": [
+        17,
+        33,
+        34
+      ],
+      "brightness": 10.0,
+      "saturation": 33.33333333333333,
+      "hue": 183.52941176470586,
+      "density": 0.0
+    },
+    {
+      "time": 4733.268654,
+      "sentiment": -0.01,
+      "barcode_color": [
+        43,
+        44,
+        37
+      ],
+      "brightness": 15.88235294117647,
+      "saturation": 8.641975308641971,
+      "hue": 68.57142857142854,
+      "density": 0.0
+    },
+    {
+      "time": 4742.94814,
+      "sentiment": -0.01,
+      "barcode_color": [
+        22,
+        16,
+        12
+      ],
+      "brightness": 6.666666666666667,
+      "saturation": 29.411764705882355,
+      "hue": 24.0,
+      "density": 0.0
+    },
+    {
+      "time": 4752.627626,
+      "sentiment": -0.01,
+      "barcode_color": [
+        46,
+        47,
+        40
+      ],
+      "brightness": 17.058823529411764,
+      "saturation": 8.045977011494257,
+      "hue": 68.5714285714286,
+      "density": 0.0
+    },
+    {
+      "time": 4762.307112,
+      "sentiment": -0.01,
+      "barcode_color": [
+        14,
+        37,
+        36
+      ],
+      "brightness": 10.0,
+      "saturation": 45.09803921568628,
+      "hue": 177.39130434782606,
+      "density": 0.0
+    },
+    {
+      "time": 4771.986598,
+      "sentiment": -0.01,
+      "barcode_color": [
+        22,
+        25,
+        19
+      ],
+      "brightness": 8.627450980392156,
+      "saturation": 13.636363636363635,
+      "hue": 90.0,
+      "density": 0.0
+    },
+    {
+      "time": 4781.666084,
+      "sentiment": -0.01,
+      "barcode_color": [
+        5,
+        18,
+        7
+      ],
+      "brightness": 4.509803921568627,
+      "saturation": 56.52173913043478,
+      "hue": 129.23076923076923,
+      "density": 2.0
+    },
+    {
+      "time": 4791.34557,
+      "sentiment": -0.02,
+      "barcode_color": [
+        1,
+        1,
+        1
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 0.0,
+      "hue": 0.0,
+      "density": 2.0
+    },
+    {
+      "time": 4801.025056,
+      "sentiment": -0.01,
+      "barcode_color": [
+        22,
+        24,
+        14
+      ],
+      "brightness": 7.450980392156863,
+      "saturation": 26.31578947368421,
+      "hue": 72.0,
+      "density": 2.0
+    },
+    {
+      "time": 4810.704542,
+      "sentiment": 0.0,
+      "barcode_color": [
+        2,
+        7,
+        3
+      ],
+      "brightness": 1.7647058823529411,
+      "saturation": 55.55555555555556,
+      "hue": 132.0,
+      "density": 2.0
+    },
+    {
+      "time": 4820.384028,
+      "sentiment": 0.0,
+      "barcode_color": [
+        22,
+        23,
+        16
+      ],
+      "brightness": 7.647058823529412,
+      "saturation": 17.948717948717945,
+      "hue": 68.57142857142857,
+      "density": 2.0
+    },
+    {
+      "time": 4830.063514,
+      "sentiment": 0.0,
+      "barcode_color": [
+        0,
+        2,
+        0
+      ],
+      "brightness": 0.39215686274509803,
+      "saturation": 100.0,
+      "hue": 120.0,
+      "density": 2.0
+    }
+  ],
+  "emotion_barcode": [
+    [
+      3,
+      0,
+      2
+    ],
+    [
+      37,
+      22,
+      16
+    ],
+    [
+      104,
+      83,
+      58
+    ],
+    [
+      28,
+      10,
+      9
+    ],
+    [
+      134,
+      127,
+      118
+    ],
+    [
+      118,
+      116,
+      103
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      3,
+      6,
+      14
+    ],
+    [
+      14,
+      16,
+      17
+    ],
+    [
+      58,
+      61,
+      57
+    ],
+    [
+      125,
+      126,
+      117
+    ],
+    [
+      66,
+      57,
+      53
+    ],
+    [
+      60,
+      51,
+      50
+    ],
+    [
+      56,
+      50,
+      36
+    ],
+    [
+      193,
+      184,
+      169
+    ],
+    [
+      42,
+      32,
+      20
+    ],
+    [
+      77,
+      67,
+      55
+    ],
+    [
+      24,
+      21,
+      24
+    ],
+    [
+      17,
+      19,
+      21
+    ],
+    [
+      17,
+      20,
+      17
+    ],
+    [
+      24,
+      30,
+      21
+    ],
+    [
+      50,
+      43,
+      45
+    ],
+    [
+      33,
+      31,
+      29
+    ],
+    [
+      69,
+      59,
+      48
+    ],
+    [
+      50,
+      45,
+      37
+    ],
+    [
+      18,
+      17,
+      10
+    ],
+    [
+      181,
+      179,
+      175
+    ],
+    [
+      45,
+      43,
+      39
+    ],
+    [
+      83,
+      60,
+      47
+    ],
+    [
+      134,
+      117,
+      100
+    ],
+    [
+      49,
+      49,
+      36
+    ],
+    [
+      44,
+      42,
+      38
+    ],
+    [
+      57,
+      52,
+      42
+    ],
+    [
+      62,
+      50,
+      38
+    ],
+    [
+      32,
+      20,
+      10
+    ],
+    [
+      67,
+      50,
+      47
+    ],
+    [
+      7,
+      10,
+      4
+    ],
+    [
+      62,
+      61,
+      52
+    ],
+    [
+      41,
+      31,
+      20
+    ],
+    [
+      44,
+      36,
+      25
+    ],
+    [
+      77,
+      72,
+      58
+    ],
+    [
+      186,
+      166,
+      139
+    ],
+    [
+      32,
+      31,
+      22
+    ],
+    [
+      56,
+      50,
+      36
+    ],
+    [
+      65,
+      68,
+      53
+    ],
+    [
+      187,
+      190,
+      173
+    ],
+    [
+      45,
+      44,
+      33
+    ],
+    [
+      49,
+      45,
+      30
+    ],
+    [
+      69,
+      64,
+      50
+    ],
+    [
+      28,
+      27,
+      23
+    ],
+    [
+      25,
+      18,
+      18
+    ],
+    [
+      63,
+      54,
+      39
+    ],
+    [
+      30,
+      22,
+      13
+    ],
+    [
+      20,
+      14,
+      7
+    ],
+    [
+      33,
+      32,
+      25
+    ],
+    [
+      18,
+      17,
+      10
+    ],
+    [
+      33,
+      27,
+      18
+    ],
+    [
+      75,
+      74,
+      67
+    ],
+    [
+      6,
+      1,
+      0
+    ],
+    [
+      144,
+      141,
+      131
+    ],
+    [
+      133,
+      130,
+      108
+    ],
+    [
+      41,
+      32,
+      14
+    ],
+    [
+      105,
+      109,
+      85
+    ],
+    [
+      62,
+      49,
+      13
+    ],
+    [
+      68,
+      60,
+      26
+    ],
+    [
+      30,
+      33,
+      14
+    ],
+    [
+      27,
+      65,
+      54
+    ],
+    [
+      10,
+      24,
+      24
+    ],
+    [
+      21,
+      23,
+      24
+    ],
+    [
+      31,
+      28,
+      20
+    ],
+    [
+      91,
+      102,
+      94
+    ],
+    [
+      5,
+      7,
+      9
+    ],
+    [
+      54,
+      54,
+      40
+    ],
+    [
+      87,
+      83,
+      71
+    ],
+    [
+      25,
+      22,
+      12
+    ],
+    [
+      46,
+      50,
+      42
+    ],
+    [
+      116,
+      115,
+      93
+    ],
+    [
+      11,
+      16,
+      3
+    ],
+    [
+      43,
+      53,
+      45
+    ],
+    [
+      58,
+      57,
+      37
+    ],
+    [
+      21,
+      26,
+      6
+    ],
+    [
+      20,
+      26,
+      15
+    ],
+    [
+      30,
+      28,
+      22
+    ],
+    [
+      13,
+      13,
+      11
+    ],
+    [
+      25,
+      30,
+      24
+    ],
+    [
+      18,
+      28,
+      24
+    ],
+    [
+      27,
+      33,
+      26
+    ],
+    [
+      54,
+      58,
+      50
+    ],
+    [
+      5,
+      11,
+      11
+    ],
+    [
+      3,
+      5,
+      7
+    ],
+    [
+      42,
+      42,
+      40
+    ],
+    [
+      7,
+      7,
+      7
+    ],
+    [
+      28,
+      23,
+      22
+    ],
+    [
+      76,
+      75,
+      68
+    ],
+    [
+      90,
+      90,
+      86
+    ],
+    [
+      86,
+      91,
+      90
+    ],
+    [
+      35,
+      46,
+      51
+    ],
+    [
+      23,
+      19,
+      14
+    ],
+    [
+      41,
+      30,
+      23
+    ],
+    [
+      20,
+      10,
+      2
+    ],
+    [
+      27,
+      17,
+      9
+    ],
+    [
+      1,
+      2,
+      0
+    ],
+    [
+      54,
+      35,
+      25
+    ],
+    [
+      44,
+      29,
+      20
+    ],
+    [
+      9,
+      7,
+      5
+    ],
+    [
+      18,
+      9,
+      8
+    ],
+    [
+      45,
+      37,
+      30
+    ],
+    [
+      52,
+      39,
+      32
+    ],
+    [
+      14,
+      3,
+      2
+    ],
+    [
+      20,
+      9,
+      6
+    ],
+    [
+      5,
+      3,
+      1
+    ],
+    [
+      17,
+      13,
+      12
+    ],
+    [
+      54,
+      48,
+      39
+    ],
+    [
+      28,
+      22,
+      15
+    ],
+    [
+      11,
+      7,
+      6
+    ],
+    [
+      8,
+      3,
+      3
+    ],
+    [
+      10,
+      7,
+      1
+    ],
+    [
+      9,
+      3,
+      3
+    ],
+    [
+      25,
+      12,
+      5
+    ],
+    [
+      18,
+      10,
+      4
+    ],
+    [
+      16,
+      11,
+      4
+    ],
+    [
+      54,
+      53,
+      46
+    ],
+    [
+      14,
+      8,
+      1
+    ],
+    [
+      20,
+      14,
+      7
+    ],
+    [
+      4,
+      2,
+      0
+    ],
+    [
+      6,
+      1,
+      0
+    ],
+    [
+      14,
+      7,
+      7
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      2,
+      2,
+      6
+    ],
+    [
+      4,
+      0,
+      0
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      26,
+      24,
+      20
+    ],
+    [
+      32,
+      26,
+      21
+    ],
+    [
+      16,
+      19,
+      15
+    ],
+    [
+      32,
+      26,
+      19
+    ],
+    [
+      36,
+      21,
+      14
+    ],
+    [
+      22,
+      22,
+      22
+    ],
+    [
+      9,
+      15,
+      20
+    ],
+    [
+      1,
+      2,
+      6
+    ],
+    [
+      38,
+      25,
+      16
+    ],
+    [
+      21,
+      17,
+      11
+    ],
+    [
+      11,
+      14,
+      13
+    ],
+    [
+      53,
+      53,
+      37
+    ],
+    [
+      77,
+      71,
+      57
+    ],
+    [
+      39,
+      29,
+      23
+    ],
+    [
+      25,
+      16,
+      17
+    ],
+    [
+      16,
+      10,
+      6
+    ],
+    [
+      10,
+      7,
+      0
+    ],
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      138,
+      138,
+      122
+    ],
+    [
+      28,
+      29,
+      13
+    ],
+    [
+      19,
+      15,
+      16
+    ],
+    [
+      4,
+      0,
+      1
+    ],
+    [
+      9,
+      4,
+      6
+    ],
+    [
+      5,
+      2,
+      6
+    ],
+    [
+      2,
+      4,
+      8
+    ],
+    [
+      2,
+      4,
+      6
+    ],
+    [
+      33,
+      33,
+      31
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      68,
+      67,
+      58
+    ],
+    [
+      19,
+      16,
+      8
+    ],
+    [
+      31,
+      28,
+      20
+    ],
+    [
+      32,
+      26,
+      0
+    ],
+    [
+      198,
+      193,
+      151
+    ],
+    [
+      70,
+      63,
+      33
+    ],
+    [
+      59,
+      53,
+      30
+    ],
+    [
+      46,
+      41,
+      17
+    ],
+    [
+      195,
+      191,
+      160
+    ],
+    [
+      111,
+      108,
+      71
+    ],
+    [
+      27,
+      29,
+      5
+    ],
+    [
+      160,
+      143,
+      112
+    ],
+    [
+      170,
+      145,
+      117
+    ],
+    [
+      60,
+      40,
+      33
+    ],
+    [
+      12,
+      5,
+      0
+    ],
+    [
+      43,
+      30,
+      26
+    ],
+    [
+      64,
+      53,
+      48
+    ],
+    [
+      52,
+      39,
+      30
+    ],
+    [
+      12,
+      12,
+      10
+    ],
+    [
+      51,
+      45,
+      41
+    ],
+    [
+      9,
+      0,
+      0
+    ],
+    [
+      80,
+      61,
+      47
+    ],
+    [
+      74,
+      61,
+      45
+    ],
+    [
+      66,
+      59,
+      34
+    ],
+    [
+      95,
+      71,
+      38
+    ],
+    [
+      97,
+      82,
+      35
+    ],
+    [
+      66,
+      47,
+      26
+    ],
+    [
+      119,
+      99,
+      67
+    ],
+    [
+      72,
+      52,
+      32
+    ],
+    [
+      63,
+      46,
+      27
+    ],
+    [
+      126,
+      111,
+      89
+    ],
+    [
+      80,
+      67,
+      51
+    ],
+    [
+      36,
+      20,
+      7
+    ],
+    [
+      158,
+      143,
+      109
+    ],
+    [
+      186,
+      169,
+      136
+    ],
+    [
+      178,
+      158,
+      126
+    ],
+    [
+      192,
+      172,
+      140
+    ],
+    [
+      181,
+      157,
+      124
+    ],
+    [
+      76,
+      65,
+      46
+    ],
+    [
+      11,
+      10,
+      1
+    ],
+    [
+      59,
+      45,
+      32
+    ],
+    [
+      84,
+      68,
+      55
+    ],
+    [
+      49,
+      47,
+      29
+    ],
+    [
+      64,
+      52,
+      45
+    ],
+    [
+      79,
+      71,
+      60
+    ],
+    [
+      47,
+      47,
+      22
+    ],
+    [
+      54,
+      58,
+      29
+    ],
+    [
+      42,
+      41,
+      16
+    ],
+    [
+      76,
+      80,
+      53
+    ],
+    [
+      53,
+      62,
+      32
+    ],
+    [
+      32,
+      43,
+      19
+    ],
+    [
+      41,
+      42,
+      33
+    ],
+    [
+      73,
+      70,
+      51
+    ],
+    [
+      63,
+      62,
+      39
+    ],
+    [
+      51,
+      58,
+      30
+    ],
+    [
+      42,
+      45,
+      28
+    ],
+    [
+      13,
+      8,
+      0
+    ],
+    [
+      7,
+      3,
+      0
+    ],
+    [
+      22,
+      17,
+      17
+    ],
+    [
+      7,
+      5,
+      6
+    ],
+    [
+      7,
+      2,
+      1
+    ],
+    [
+      59,
+      58,
+      49
+    ],
+    [
+      36,
+      48,
+      46
+    ],
+    [
+      115,
+      118,
+      103
+    ],
+    [
+      108,
+      111,
+      96
+    ],
+    [
+      99,
+      101,
+      87
+    ],
+    [
+      63,
+      75,
+      62
+    ],
+    [
+      61,
+      62,
+      54
+    ],
+    [
+      100,
+      94,
+      73
+    ],
+    [
+      95,
+      91,
+      56
+    ],
+    [
+      101,
+      80,
+      56
+    ],
+    [
+      38,
+      31,
+      17
+    ],
+    [
+      11,
+      15,
+      7
+    ],
+    [
+      9,
+      5,
+      0
+    ],
+    [
+      62,
+      52,
+      41
+    ],
+    [
+      43,
+      6,
+      21
+    ],
+    [
+      48,
+      53,
+      38
+    ],
+    [
+      35,
+      25,
+      13
+    ],
+    [
+      7,
+      7,
+      0
+    ],
+    [
+      31,
+      30,
+      21
+    ],
+    [
+      63,
+      60,
+      49
+    ],
+    [
+      53,
+      44,
+      29
+    ],
+    [
+      39,
+      30,
+      17
+    ],
+    [
+      42,
+      38,
+      32
+    ],
+    [
+      17,
+      18,
+      15
+    ],
+    [
+      37,
+      34,
+      22
+    ],
+    [
+      71,
+      69,
+      49
+    ],
+    [
+      47,
+      48,
+      29
+    ],
+    [
+      35,
+      42,
+      30
+    ],
+    [
+      17,
+      28,
+      17
+    ],
+    [
+      5,
+      16,
+      6
+    ],
+    [
+      17,
+      26,
+      16
+    ],
+    [
+      8,
+      16,
+      7
+    ],
+    [
+      7,
+      20,
+      9
+    ],
+    [
+      89,
+      95,
+      86
+    ],
+    [
+      8,
+      16,
+      7
+    ],
+    [
+      48,
+      53,
+      40
+    ],
+    [
+      30,
+      34,
+      23
+    ],
+    [
+      13,
+      8,
+      7
+    ],
+    [
+      22,
+      30,
+      32
+    ],
+    [
+      12,
+      22,
+      28
+    ],
+    [
+      14,
+      31,
+      37
+    ],
+    [
+      6,
+      16,
+      24
+    ],
+    [
+      11,
+      28,
+      33
+    ],
+    [
+      0,
+      0,
+      8
+    ],
+    [
+      3,
+      2,
+      12
+    ],
+    [
+      11,
+      15,
+      18
+    ],
+    [
+      2,
+      4,
+      3
+    ],
+    [
+      0,
+      2,
+      0
+    ],
+    [
+      8,
+      9,
+      6
+    ],
+    [
+      32,
+      25,
+      23
+    ],
+    [
+      40,
+      21,
+      21
+    ],
+    [
+      42,
+      25,
+      17
+    ],
+    [
+      56,
+      46,
+      36
+    ],
+    [
+      9,
+      4,
+      0
+    ],
+    [
+      46,
+      32,
+      19
+    ],
+    [
+      40,
+      38,
+      25
+    ],
+    [
+      7,
+      13,
+      6
+    ],
+    [
+      8,
+      12,
+      16
+    ],
+    [
+      19,
+      15,
+      14
+    ],
+    [
+      47,
+      44,
+      36
+    ],
+    [
+      1,
+      7,
+      3
+    ],
+    [
+      8,
+      10,
+      11
+    ],
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      2,
+      2
+    ],
+    [
+      6,
+      4,
+      3
+    ],
+    [
+      6,
+      6,
+      4
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      14,
+      16,
+      17
+    ],
+    [
+      16,
+      12,
+      9
+    ],
+    [
+      13,
+      8,
+      7
+    ],
+    [
+      2,
+      2,
+      4
+    ],
+    [
+      5,
+      2,
+      6
+    ],
+    [
+      5,
+      2,
+      6
+    ],
+    [
+      4,
+      0,
+      1
+    ],
+    [
+      20,
+      31,
+      23
+    ],
+    [
+      63,
+      64,
+      59
+    ],
+    [
+      33,
+      36,
+      35
+    ],
+    [
+      44,
+      56,
+      56
+    ],
+    [
+      42,
+      53,
+      56
+    ],
+    [
+      39,
+      48,
+      49
+    ],
+    [
+      2,
+      9,
+      7
+    ],
+    [
+      9,
+      19,
+      13
+    ],
+    [
+      4,
+      9,
+      7
+    ],
+    [
+      36,
+      50,
+      47
+    ],
+    [
+      9,
+      9,
+      9
+    ],
+    [
+      28,
+      30,
+      27
+    ],
+    [
+      1,
+      9,
+      11
+    ],
+    [
+      5,
+      11,
+      13
+    ],
+    [
+      3,
+      9,
+      14
+    ],
+    [
+      0,
+      4,
+      8
+    ],
+    [
+      6,
+      15,
+      17
+    ],
+    [
+      0,
+      5,
+      10
+    ],
+    [
+      7,
+      23,
+      25
+    ],
+    [
+      0,
+      5,
+      10
+    ],
+    [
+      4,
+      7,
+      13
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      5,
+      14,
+      16
+    ],
+    [
+      4,
+      15,
+      14
+    ],
+    [
+      13,
+      27,
+      24
+    ],
+    [
+      6,
+      18,
+      16
+    ],
+    [
+      0,
+      6,
+      6
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      13,
+      17,
+      20
+    ],
+    [
+      37,
+      39,
+      40
+    ],
+    [
+      3,
+      5,
+      9
+    ],
+    [
+      4,
+      7,
+      6
+    ],
+    [
+      1,
+      3,
+      4
+    ],
+    [
+      0,
+      4,
+      4
+    ],
+    [
+      3,
+      4,
+      0
+    ],
+    [
+      3,
+      4,
+      1
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      14,
+      16,
+      17
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      5,
+      4,
+      9
+    ],
+    [
+      5,
+      7,
+      11
+    ],
+    [
+      5,
+      11,
+      11
+    ],
+    [
+      4,
+      7,
+      4
+    ],
+    [
+      25,
+      17,
+      11
+    ],
+    [
+      14,
+      9,
+      0
+    ],
+    [
+      15,
+      12,
+      4
+    ],
+    [
+      8,
+      4,
+      0
+    ],
+    [
+      5,
+      3,
+      0
+    ],
+    [
+      9,
+      10,
+      5
+    ],
+    [
+      11,
+      14,
+      11
+    ],
+    [
+      21,
+      17,
+      12
+    ],
+    [
+      12,
+      7,
+      4
+    ],
+    [
+      8,
+      4,
+      3
+    ],
+    [
+      12,
+      7,
+      4
+    ],
+    [
+      10,
+      6,
+      3
+    ],
+    [
+      23,
+      7,
+      6
+    ],
+    [
+      38,
+      15,
+      2
+    ],
+    [
+      50,
+      23,
+      9
+    ],
+    [
+      26,
+      17,
+      1
+    ],
+    [
+      34,
+      19,
+      0
+    ],
+    [
+      53,
+      36,
+      12
+    ],
+    [
+      24,
+      19,
+      5
+    ],
+    [
+      6,
+      8,
+      7
+    ],
+    [
+      8,
+      10,
+      9
+    ],
+    [
+      16,
+      18,
+      18
+    ],
+    [
+      3,
+      1,
+      1
+    ],
+    [
+      31,
+      21,
+      25
+    ],
+    [
+      10,
+      7,
+      10
+    ],
+    [
+      14,
+      14,
+      14
+    ],
+    [
+      4,
+      2,
+      0
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      6,
+      4
+    ],
+    [
+      0,
+      5,
+      8
+    ],
+    [
+      0,
+      0,
+      3
+    ],
+    [
+      7,
+      10,
+      6
+    ],
+    [
+      21,
+      24,
+      18
+    ],
+    [
+      3,
+      6,
+      3
+    ],
+    [
+      4,
+      8,
+      2
+    ],
+    [
+      0,
+      2,
+      3
+    ],
+    [
+      11,
+      4,
+      4
+    ],
+    [
+      3,
+      0,
+      3
+    ],
+    [
+      3,
+      1,
+      0
+    ],
+    [
+      8,
+      9,
+      6
+    ],
+    [
+      5,
+      5,
+      3
+    ],
+    [
+      2,
+      3,
+      0
+    ],
+    [
+      22,
+      4,
+      3
+    ],
+    [
+      6,
+      2,
+      0
+    ],
+    [
+      7,
+      0,
+      0
+    ],
+    [
+      19,
+      0,
+      3
+    ],
+    [
+      5,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0
+    ],
+    [
+      22,
+      6,
+      7
+    ],
+    [
+      7,
+      0,
+      0
+    ],
+    [
+      9,
+      5,
+      4
+    ],
+    [
+      6,
+      4,
+      5
+    ],
+    [
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      4,
+      3
+    ],
+    [
+      3,
+      0,
+      0
+    ],
+    [
+      5,
+      9,
+      12
+    ],
+    [
+      0,
+      5,
+      12
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      0,
+      0,
+      4
+    ],
+    [
+      7,
+      14,
+      12
+    ],
+    [
+      7,
+      21,
+      18
+    ],
+    [
+      0,
+      7,
+      7
+    ],
+    [
+      11,
+      27,
+      26
+    ],
+    [
+      1,
+      9,
+      4
+    ],
+    [
+      21,
+      32,
+      35
+    ],
+    [
+      7,
+      15,
+      19
+    ],
+    [
+      15,
+      21,
+      26
+    ],
+    [
+      0,
+      1,
+      6
+    ],
+    [
+      2,
+      8,
+      13
+    ],
+    [
+      0,
+      3,
+      7
+    ],
+    [
+      0,
+      2,
+      7
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      0,
+      1,
+      5
+    ],
+    [
+      1,
+      3,
+      7
+    ],
+    [
+      14,
+      18,
+      22
+    ],
+    [
+      12,
+      30,
+      33
+    ],
+    [
+      0,
+      12,
+      20
+    ],
+    [
+      0,
+      12,
+      18
+    ],
+    [
+      0,
+      1,
+      6
+    ],
+    [
+      19,
+      19,
+      19
+    ],
+    [
+      11,
+      11,
+      11
+    ],
+    [
+      4,
+      6,
+      12
+    ],
+    [
+      0,
+      1,
+      6
+    ],
+    [
+      0,
+      2,
+      5
+    ],
+    [
+      4,
+      8,
+      9
+    ],
+    [
+      6,
+      8,
+      7
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      6,
+      3
+    ],
+    [
+      4,
+      7,
+      4
+    ],
+    [
+      17,
+      22,
+      18
+    ],
+    [
+      10,
+      19,
+      18
+    ],
+    [
+      6,
+      18,
+      16
+    ],
+    [
+      0,
+      5,
+      5
+    ],
+    [
+      5,
+      15,
+      14
+    ],
+    [
+      0,
+      13,
+      6
+    ],
+    [
+      10,
+      14,
+      15
+    ],
+    [
+      5,
+      23,
+      26
+    ],
+    [
+      0,
+      7,
+      8
+    ],
+    [
+      2,
+      16,
+      16
+    ],
+    [
+      1,
+      10,
+      11
+    ],
+    [
+      33,
+      44,
+      45
+    ],
+    [
+      0,
+      10,
+      8
+    ],
+    [
+      5,
+      10,
+      10
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      1,
+      2
+    ],
+    [
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      8,
+      6
+    ],
+    [
+      0,
+      3,
+      1
+    ],
+    [
+      3,
+      7,
+      8
+    ],
+    [
+      1,
+      8,
+      8
+    ],
+    [
+      9,
+      13,
+      14
+    ],
+    [
+      0,
+      5,
+      10
+    ],
+    [
+      2,
+      26,
+      34
+    ],
+    [
+      0,
+      17,
+      25
+    ],
+    [
+      2,
+      3,
+      10
+    ],
+    [
+      1,
+      1,
+      5
+    ],
+    [
+      25,
+      25,
+      23
+    ],
+    [
+      11,
+      10,
+      3
+    ],
+    [
+      48,
+      49,
+      44
+    ],
+    [
+      50,
+      50,
+      50
+    ],
+    [
+      6,
+      5,
+      1
+    ],
+    [
+      9,
+      10,
+      5
+    ],
+    [
+      16,
+      24,
+      17
+    ],
+    [
+      108,
+      94,
+      81
+    ],
+    [
+      21,
+      18,
+      8
+    ],
+    [
+      15,
+      11,
+      6
+    ],
+    [
+      29,
+      30,
+      25
+    ],
+    [
+      0,
+      6,
+      0
+    ],
+    [
+      2,
+      7,
+      1
+    ],
+    [
+      38,
+      36,
+      32
+    ],
+    [
+      71,
+      72,
+      67
+    ],
+    [
+      11,
+      11,
+      7
+    ],
+    [
+      11,
+      17,
+      10
+    ],
+    [
+      35,
+      41,
+      33
+    ],
+    [
+      13,
+      14,
+      7
+    ],
+    [
+      11,
+      14,
+      13
+    ],
+    [
+      8,
+      15,
+      13
+    ],
+    [
+      44,
+      46,
+      38
+    ],
+    [
+      124,
+      117,
+      105
+    ],
+    [
+      40,
+      40,
+      26
+    ],
+    [
+      9,
+      11,
+      11
+    ],
+    [
+      15,
+      16,
+      13
+    ],
+    [
+      14,
+      17,
+      13
+    ],
+    [
+      3,
+      6,
+      3
+    ],
+    [
+      0,
+      2,
+      1
+    ],
+    [
+      17,
+      33,
+      34
+    ],
+    [
+      43,
+      44,
+      37
+    ],
+    [
+      22,
+      16,
+      12
+    ],
+    [
+      46,
+      47,
+      40
+    ],
+    [
+      14,
+      37,
+      36
+    ],
+    [
+      22,
+      25,
+      19
+    ],
+    [
+      5,
+      18,
+      7
+    ],
+    [
+      1,
+      1,
+      1
+    ],
+    [
+      22,
+      24,
+      14
+    ],
+    [
+      2,
+      7,
+      3
+    ],
+    [
+      22,
+      23,
+      16
+    ],
+    [
+      0,
+      2,
+      0
+    ]
+  ],
+  "subtitles": [
+    {
+      "start": 46.972,
+      "end": 51.969,
+      "text": "DAY 89."
+    },
+    {
+      "start": 71.805,
+      "end": 74.55,
+      "text": "DISAPPEARED! CONTACT THE POLICE."
+    },
+    {
+      "start": 134.541,
+      "end": 138.266,
+      "text": "It's okay."
+    },
+    {
+      "start": 203.553,
+      "end": 205.795,
+      "text": "It's okay."
+    },
+    {
+      "start": 238.638,
+      "end": 241.021,
+      "text": "Rocket."
+    },
+    {
+      "start": 241.665,
+      "end": 244.481,
+      "text": "Well done!"
+    },
+    {
+      "start": 245.694,
+      "end": 249.795,
+      "text": "This is how... we're going to escape this planet."
+    },
+    {
+      "start": 319.614,
+      "end": 323.869,
+      "text": "Go to your mother."
+    },
+    {
+      "start": 332.887,
+      "end": 336.531,
+      "text": "It's for the radio?"
+    },
+    {
+      "start": 336.641,
+      "end": 339.67,
+      "text": "It will help us amplify the signal."
+    },
+    {
+      "start": 349.793,
+      "end": 351.146,
+      "text": "For you."
+    },
+    {
+      "start": 351.147,
+      "end": 353.101,
+      "text": "Thanks."
+    },
+    {
+      "start": 355.379,
+      "end": 358.602,
+      "text": "It will soon darken."
+    },
+    {
+      "start": 398.682,
+      "end": 400.703,
+      "text": "Listen to me."
+    },
+    {
+      "start": 402.037,
+      "end": 404.969,
+      "text": "It's very noisy."
+    },
+    {
+      "start": 428.123,
+      "end": 431.838,
+      "text": "NEW YORK POST RUSTLES."
+    },
+    {
+      "start": 627.019,
+      "end": 631.267,
+      "text": "DAY 472."
+    },
+    {
+      "start": 710.122,
+      "end": 716.569,
+      "text": "THEY CAN HEAR YOU WHAT YOU NEED TO KNOW TO SURVIVE."
+    },
+    {
+      "start": 737.711,
+      "end": 739.258,
+      "text": "GET UNDERGROUND."
+    },
+    {
+      "start": 739.259,
+      "end": 741.86,
+      "text": "CREATUREs:- BLIND. - ATTACK SOUNDS."
+    },
+    {
+      "start": 741.861,
+      "end": 745.781,
+      "text": "- HOW MANY IN THE AREA? - CONFIRMED 3."
+    },
+    {
+      "start": 766.089,
+      "end": 769.453,
+      "text": "S.O.S."
+    },
+    {
+      "start": 1040.29,
+      "end": 1048.794,
+      "text": "Sorry."
+    },
+    {
+      "start": 1065.048,
+      "end": 1067.383,
+      "text": "Dinner."
+    },
+    {
+      "start": 1067.865,
+      "end": 1070.398,
+      "text": "Thank you."
+    },
+    {
+      "start": 1331.063,
+      "end": 1334.055,
+      "text": "THE HUMAN EAR."
+    },
+    {
+      "start": 1408.6,
+      "end": 1411.037,
+      "text": "Beautiful..."
+    },
+    {
+      "start": 1414.658,
+      "end": 1416.894,
+      "text": "I said Nothing..."
+    },
+    {
+      "start": 1518.072,
+      "end": 1522.583,
+      "text": "DAY 473."
+    },
+    {
+      "start": 1572.799,
+      "end": 1575.403,
+      "text": "BIRTH DATE."
+    },
+    {
+      "start": 1679.184,
+      "end": 1682.624,
+      "text": "- Do not go down there! - Why not?"
+    },
+    {
+      "start": 1682.835,
+      "end": 1687.012,
+      "text": "- You don't know why... - I'm going... I will not make any noise!"
+    },
+    {
+      "start": 1687.662,
+      "end": 1690.517,
+      "text": "Don't do it."
+    },
+    {
+      "start": 1690.518,
+      "end": 1692.586,
+      "text": "Please."
+    },
+    {
+      "start": 1701.391,
+      "end": 1706.109,
+      "text": "This time, use these little stereo amplifiers."
+    },
+    {
+      "start": 1706.213,
+      "end": 1709.264,
+      "text": "It will not work."
+    },
+    {
+      "start": 1709.265,
+      "end": 1712.054,
+      "text": "No, this should increase the frequency to..."
+    },
+    {
+      "start": 1712.055,
+      "end": 1715.029,
+      "text": "28min 19 - 29min 21 it never worked!"
+    },
+    {
+      "start": 1715.03,
+      "end": 1716.76,
+      "text": "But..."
+    },
+    {
+      "start": 1716.761,
+      "end": 1722.243,
+      "text": "We will continue to try, until it works."
+    },
+    {
+      "start": 1735.263,
+      "end": 1739.277,
+      "text": "Enough! Enough."
+    },
+    {
+      "start": 1739.278,
+      "end": 1740.977,
+      "text": "Enough!"
+    },
+    {
+      "start": 1740.978,
+      "end": 1743.843,
+      "text": "Enough, already!"
+    },
+    {
+      "start": 1765.631,
+      "end": 1769.44,
+      "text": "Remember... you have to divide."
+    },
+    {
+      "start": 1777.791,
+      "end": 1781.21,
+      "text": "We have three."
+    },
+    {
+      "start": 1788.794,
+      "end": 1791.19,
+      "text": "Amazing!"
+    },
+    {
+      "start": 1799.695,
+      "end": 1802.406,
+      "text": "Time to leave."
+    },
+    {
+      "start": 1809.886,
+      "end": 1811.774,
+      "text": "Don't force me to go with him."
+    },
+    {
+      "start": 1811.775,
+      "end": 1818.519,
+      "text": "You'll be fine. Your father will protect you. Always."
+    },
+    {
+      "start": 1826.88,
+      "end": 1832.612,
+      "text": "Look... It's important that you learn these things."
+    },
+    {
+      "start": 1841.652,
+      "end": 1844.623,
+      "text": "also take care of me..."
+    },
+    {
+      "start": 1846.013,
+      "end": 1850.947,
+      "text": "when I'm old... And gray..."
+    },
+    {
+      "start": 1853.123,
+      "end": 1855.782,
+      "text": "And no longer have teeth..."
+    },
+    {
+      "start": 1863.357,
+      "end": 1867.504,
+      "text": "Do not worry..."
+    },
+    {
+      "start": 1879.596,
+      "end": 1883.268,
+      "text": "- I do not want to go... - There is nothing to fear."
+    },
+    {
+      "start": 1886.583,
+      "end": 1888.396,
+      "text": "I will go..."
+    },
+    {
+      "start": 1890.917,
+      "end": 1895.976,
+      "text": "You stay here. I need you to stay here and help your mother."
+    },
+    {
+      "start": 1908.501,
+      "end": 1910.267,
+      "text": "I want to go."
+    },
+    {
+      "start": 1910.268,
+      "end": 1912.462,
+      "text": "You stay here."
+    },
+    {
+      "start": 1912.463,
+      "end": 1915.273,
+      "text": "You will be safe here."
+    },
+    {
+      "start": 1928.924,
+      "end": 1931.312,
+      "text": "She will go next time."
+    },
+    {
+      "start": 2136.823,
+      "end": 2140.365,
+      "text": "They are going to hear you!"
+    },
+    {
+      "start": 2141.997,
+      "end": 2145.688,
+      "text": "Look at me."
+    },
+    {
+      "start": 2148.969,
+      "end": 2151.453,
+      "text": "Listen out."
+    },
+    {
+      "start": 2152.871,
+      "end": 2155.138,
+      "text": "The river... It's noisy."
+    },
+    {
+      "start": 2157.35,
+      "end": 2160.295,
+      "text": "The soft noises... are safe."
+    },
+    {
+      "start": 2161.625,
+      "end": 2165.594,
+      "text": "The loud noises... are not."
+    },
+    {
+      "start": 2165.919,
+      "end": 2168.265,
+      "text": "Unless..."
+    },
+    {
+      "start": 2172.819,
+      "end": 2176.66,
+      "text": "There's another noise nearby... Strong one..."
+    },
+    {
+      "start": 2179.185,
+      "end": 2181.673,
+      "text": "You are safe."
+    },
+    {
+      "start": 2187.293,
+      "end": 2190.488,
+      "text": "Let me show you something."
+    },
+    {
+      "start": 2290.096,
+      "end": 2291.998,
+      "text": "You're alright."
+    },
+    {
+      "start": 2293.516,
+      "end": 2295.277,
+      "text": "You're alright."
+    },
+    {
+      "start": 2298.568,
+      "end": 2300.398,
+      "text": "I promise."
+    },
+    {
+      "start": 2380.334,
+      "end": 2383.05,
+      "text": "Why did't you let her come?"
+    },
+    {
+      "start": 2392.217,
+      "end": 2396.154,
+      "text": "Do you blame her... for what happened?"
+    },
+    {
+      "start": 2408.958,
+      "end": 2410.561,
+      "text": "Don't..."
+    },
+    {
+      "start": 2414.366,
+      "end": 2417.128,
+      "text": "Because she blames herself."
+    },
+    {
+      "start": 2447.822,
+      "end": 2450.177,
+      "text": "It's no one's fault..."
+    },
+    {
+      "start": 2468.339,
+      "end": 2470.894,
+      "text": "You still love her, right?"
+    },
+    {
+      "start": 2472.59,
+      "end": 2474.335,
+      "text": "Of course I do."
+    },
+    {
+      "start": 2489.11,
+      "end": 2491.255,
+      "text": "You should tell her."
+    },
+    {
+      "start": 2989.717,
+      "end": 2991.678,
+      "text": "Your mother..."
+    },
+    {
+      "start": 2992.844,
+      "end": 2997.89,
+      "text": "I want you to make a noise... Strong one."
+    },
+    {
+      "start": 2999.386,
+      "end": 3003.069,
+      "text": "Your mother... needs your help."
+    },
+    {
+      "start": 3004.012,
+      "end": 3007.217,
+      "text": "You can do it."
+    },
+    {
+      "start": 3456.159,
+      "end": 3458.805,
+      "text": "It's okay, it's okay..."
+    },
+    {
+      "start": 3459.55,
+      "end": 3461.383,
+      "text": "You are safe."
+    },
+    {
+      "start": 3461.682,
+      "end": 3463.668,
+      "text": "They can't hear us."
+    },
+    {
+      "start": 3466.246,
+      "end": 3468.238,
+      "text": "It worked?"
+    },
+    {
+      "start": 3469.878,
+      "end": 3472.448,
+      "text": "You just need to rest now."
+    },
+    {
+      "start": 3481.843,
+      "end": 3483.915,
+      "text": "Where are they?"
+    },
+    {
+      "start": 3485.649,
+      "end": 3487.56,
+      "text": "Where are they?"
+    },
+    {
+      "start": 3488.276,
+      "end": 3490.69,
+      "text": "I'll find them."
+    },
+    {
+      "start": 3494.292,
+      "end": 3495.616,
+      "text": "She was with me..."
+    },
+    {
+      "start": 3495.617,
+      "end": 3499.61,
+      "text": "She was with me and then I had to go down to laundry."
+    },
+    {
+      "start": 3500.806,
+      "end": 3503.186,
+      "text": "He was with you, wasn't he?"
+    },
+    {
+      "start": 3503.187,
+      "end": 3504.995,
+      "text": "Rockets."
+    },
+    {
+      "start": 3508.452,
+      "end": 3511.184,
+      "text": "- He'll still be there? - Surely."
+    },
+    {
+      "start": 3511.185,
+      "end": 3515.372,
+      "text": "He knows he should wait for you. And she is..."
+    },
+    {
+      "start": 3515.373,
+      "end": 3518.566,
+      "text": "She is smart... You will find the place..."
+    },
+    {
+      "start": 3518.723,
+      "end": 3520.867,
+      "text": "They know what to do."
+    },
+    {
+      "start": 3539.635,
+      "end": 3541.628,
+      "text": "It's a boy."
+    },
+    {
+      "start": 3543.383,
+      "end": 3545.235,
+      "text": "It's a boy."
+    },
+    {
+      "start": 3549.191,
+      "end": 3551.361,
+      "text": "I couldn't carred him."
+    },
+    {
+      "start": 3558.54,
+      "end": 3561.105,
+      "text": "He was heavy, isn't he?"
+    },
+    {
+      "start": 3566.289,
+      "end": 3572.511,
+      "text": "Still... I can feel his weight in my arms..."
+    },
+    {
+      "start": 3573.921,
+      "end": 3578.31,
+      "text": "Small, but... So heavy..."
+    },
+    {
+      "start": 3585.845,
+      "end": 3589.268,
+      "text": "And my hands were free..."
+    },
+    {
+      "start": 3593.718,
+      "end": 3596.183,
+      "text": "I was carrying the bag... But my hands were free."
+    },
+    {
+      "start": 3596.184,
+      "end": 3598.516,
+      "text": "You have to stop."
+    },
+    {
+      "start": 3600.531,
+      "end": 3603.415,
+      "text": "I'm sorry, I couldn't carred..."
+    },
+    {
+      "start": 3605.614,
+      "end": 3608.14,
+      "text": "I should have carred."
+    },
+    {
+      "start": 3614.493,
+      "end": 3616.429,
+      "text": "Who are we?"
+    },
+    {
+      "start": 3617.953,
+      "end": 3620.48,
+      "text": "We can't protect them."
+    },
+    {
+      "start": 3622.192,
+      "end": 3624.074,
+      "text": "Who are we?"
+    },
+    {
+      "start": 3626.677,
+      "end": 3629.196,
+      "text": "You have to protect them."
+    },
+    {
+      "start": 3630.42,
+      "end": 3632.566,
+      "text": "Promise me..."
+    },
+    {
+      "start": 3632.945,
+      "end": 3635.607,
+      "text": "that you will to protect them."
+    },
+    {
+      "start": 3776.384,
+      "end": 3780.249,
+      "text": "Don't worry... He will come to us."
+    },
+    {
+      "start": 4000.538,
+      "end": 4002.357,
+      "text": "We can not stay here."
+    },
+    {
+      "start": 4002.358,
+      "end": 4004.367,
+      "text": "We must go."
+    },
+    {
+      "start": 4004.489,
+      "end": 4006.999,
+      "text": "He will come for us."
+    },
+    {
+      "start": 4008.003,
+      "end": 4011.068,
+      "text": "He will come for us."
+    },
+    {
+      "start": 4011.438,
+      "end": 4013.908,
+      "text": "He will come for you!"
+    },
+    {
+      "start": 4013.98,
+      "end": 4015.426,
+      "text": "No, you're wrong"
+    },
+    {
+      "start": 4015.427,
+      "end": 4016.963,
+      "text": "he told me!"
+    },
+    {
+      "start": 4041.974,
+      "end": 4043.54,
+      "text": "Do not move."
+    },
+    {
+      "start": 4049.049,
+      "end": 4050.901,
+      "text": "Stop."
+    },
+    {
+      "start": 4310.918,
+      "end": 4312.65,
+      "text": "Are you fine?"
+    },
+    {
+      "start": 4312.801,
+      "end": 4314.777,
+      "text": "Are you fine?"
+    },
+    {
+      "start": 4343.889,
+      "end": 4346.687,
+      "text": "We must go to that truck."
+    },
+    {
+      "start": 4407.371,
+      "end": 4409.392,
+      "text": "Dad!"
+    },
+    {
+      "start": 4494.081,
+      "end": 4498.786,
+      "text": "I love you."
+    },
+    {
+      "start": 4502.726,
+      "end": 4510.056,
+      "text": "I HAVE ALWAYS LOVED YOU."
+    },
+    {
+      "start": 4647.313,
+      "end": 4650.663,
+      "text": "SURVIVE -MEDICAL SUPPLIES. - SOUND PROOFING."
+    },
+    {
+      "start": 4650.664,
+      "end": 4652.658,
+      "text": "WEAKNESS?"
+    },
+    {
+      "start": 4835.351,
+      "end": 4839.743,
+      "text": "WHAT IS THE WEAKNESS?"
+    }
+  ]
+}

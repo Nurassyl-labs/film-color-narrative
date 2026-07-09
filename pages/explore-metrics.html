@@ -1,0 +1,25 @@
+<section id="explore-metrics" class="fc-section" data-section>
+  <div class="fc-page-title">B. Exploration - 3</div>
+  <div class="fc-page-shell" data-animate>
+    <article class="fc-panel fc-panel--page">
+      <header class="fc-panel__head">
+        <h3>Measuring Visuals with Numbers</h3>
+        <p>We further extract average color metrics for each genre to compare their visual profiles quantitatively. In addition to basic dimensions, we introduce "Color Variance (Jumpiness)" to evaluate color transitions. Action and Sci-Fi films exhibit the most drastic color transitions, while Biography films display the smoothest visual flow.<br> <br> Through this exploration in Section B, we observe strong links between genre characteristics and color choices. For example, Animation, free from the constraints of realistic lighting, leverages vibrant, saturated colors to maximize visual appeal; Action films employ fast-changing, high-contrast colors to enhance pacing and impact. Evidently, color is not a mere cosmetic embellishment; it is a critical narrative tool. Directors adapt color design to suit a genre's communicative goals, making palette choices an immediate signifier of genre and atmosphere.</p>
+        
+        <div class="explore-controls" id="metrics-controls">
+          <button class="explore-btn active" data-metric="brightness">Average Brightness</button>
+          <button class="explore-btn" data-metric="saturation">Average Saturation</button>
+          <button class="explore-btn" data-metric="hue">Average Hue</button>
+          <button class="explore-btn" data-metric="variance">Color Variance (Jumpiness)</button>
+        </div>
+      </header>
+      
+      <div class="fc-viz" data-chart="metrics" style="width: 100%; height: 45vh;"></div>
+      
+      <!-- 替换洞察为计算说明 -->
+      <div class="fc-panel__foot explore-formula" id="metrics-explanation">
+        <span id="formula-text">Click the buttons above to toggle metrics and view their formulas. The Hue mode displays an interactive wheel; hover over pointer needles or legends to highlight specific genres.</span>
+      </div>
+    </article>
+  </div>
+</section>

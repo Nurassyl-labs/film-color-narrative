@@ -1,0 +1,78 @@
+<section id="interaction-segments" class="fc-section" data-section>
+  <div class="fc-page-title">C. Color and Text - 1</div>
+  <div class="fc-page-shell" data-animate>
+    <article class="fc-panel fc-panel--page">
+      <header class="fc-panel__head">
+        <h3>Color Breathing with the Narrative</h3>
+        <p>
+          In the previous section (B), we explored the link between color and film genres. Now we go a step further to uncover the intrinsic connection between color and story progression. We selected movies from the Animation, Action, and Horror genres and segmented their plots based on subtitle timeline analysis. For each segment, we aggregated visual color, emotional sentiment, and dialogue density. A close harmony between narrative progression and visual tone emerges. For instance, in "The Matrix", the first act is dominated by a dark, green-tinted atmosphere of tension; the second act brightens as the protagonist awakens; and the final act shifts to a stark, desaturated color palette that represents the bleakness of the real world. Color functions as an active participant in narrative rhythm.
+        </p>
+
+        <!-- Interaction Controls -->
+        <div class="interaction-controls-container">
+          <div class="explore-controls" id="segments-controls">
+            <span class="control-label">Select Movie:</span>
+            <div class="select-wrapper">
+              <select id="interaction-movie-select" class="explore-select">
+                <option value="" disabled selected>Loading movie list...</option>
+              </select>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <!-- Movie Info and Visualization Main Area -->
+      <div class="interaction-layout-grid">
+        <!-- Sidebar Movie Card -->
+        <div class="movie-meta-sidebar" id="c1-movie-meta">
+          <div class="poster-container">
+            <img id="c1-poster" src="assets/posters/tt0133093.jpg" alt="Movie Poster" class="movie-poster" />
+            <div class="movie-rating-badge">★ <span id="c1-rating">8.7</span></div>
+          </div>
+          <div class="movie-info-details">
+            <h4 id="c1-title">The Matrix</h4>
+            <p class="movie-meta-item">Year: <span id="c1-year">1999</span></p>
+            <p class="movie-meta-item">Genre: <span id="c1-genre">Action, Sci-Fi</span></p>
+            <p class="movie-meta-item">Duration: <span id="c1-duration">136 min</span></p>
+          </div>
+        </div>
+
+        <!-- Visualization Chart -->
+        <div class="viz-wrapper">
+          <div id="c1-loading" class="viz-loading" style="display: none;">Parsing chapters and average colors...</div>
+          <div class="fc-viz" data-chart="story-segments" style="width: 100%; height: 320px; position: relative;"></div>
+        </div>
+      </div>
+
+      <!-- Chapter Summary Detailed Display Panel -->
+      <div class="chapter-detail-panel" id="c1-chapter-panel">
+        <div class="chapter-color-indicator" id="c1-chapter-color"></div>
+        <div class="chapter-content">
+          <div class="chapter-header">
+            <h4 id="c1-chapter-title">Act 1 / Chapter 1</h4>
+            <span class="chapter-time" id="c1-chapter-time">00:00 - 15:00</span>
+          </div>
+          <p class="chapter-summary" id="c1-chapter-summary">Loading summary... Hover or click a segment block above to inspect details.</p>
+          <div class="chapter-stats">
+            <div class="stat-badge">
+              <span class="badge-label">Dialogue Density</span>
+              <span class="badge-val" id="c1-chapter-density">0 wpm</span>
+            </div>
+            <div class="stat-badge">
+              <span class="badge-label">Avg Sentiment</span>
+              <span class="badge-val" id="c1-chapter-sentiment">0.0</span>
+            </div>
+            <div class="stat-badge">
+              <span class="badge-label">Brightness</span>
+              <span class="badge-val" id="c1-chapter-brightness">0%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="fc-panel__foot explore-insight">
+        Use the dropdown to switch movies. The width of each bar represents the actual duration of the narrative segment, and its fill color represents the segment's average visual color. Hover over a bar to display the plot summary, and the details panel below will sync automatically.
+      </div>
+    </article>
+  </div>
+</section>

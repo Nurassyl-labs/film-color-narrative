@@ -1,0 +1,65 @@
+<section id="interaction-emotion" class="fc-section" data-section>
+  <div class="fc-page-title">C. Color and Text - 2</div>
+  <div class="fc-page-shell" data-animate>
+    <article class="fc-panel fc-panel--page">
+      <header class="fc-panel__head">
+        <h3>Resonance Between Color and Speech</h3>
+        <p>
+          We further aggregate narrative segment data across all sample films to examine statistical relationships between color and dialogue. The heatmap reveals meaningful correlations such as "Dialogue Sentiment vs. Scene Brightness", "Dialogue Density vs. Scene Brightness", and "Dialogue Density vs. Hue". For instance, brighter scenes sometimes display more negative sentiment, which could indicate the use of bright settings to contrast and underscore negative emotions. <br><br> Through this section (C), we uncover the deeper interplay between color choices and spoken text. Color systems subtly echo narrative twists, externalizing hidden character arcs and psychological states into immediate visual experiences. Compared to explicit narrative devices like dialogues or camera movement, color operates implicitly, shaping viewer mood, establishing atmosphere, and foreshadowing narrative shifts.
+        </p>
+
+        <!-- 可视化配置工具栏 - 全片库模式 -->
+        <div class="emotion-config-bar">
+          <div class="viz-mode-switch" id="c2-mode-switch" style="margin-bottom:12px;">
+            <span class="control-label">Analysis Mode:</span>
+            <label class="toggle-btn active" data-mode="scatter">
+              <input type="radio" name="viz-mode" value="scatter" checked /> Scatter Plot (Correlation)
+            </label>
+            <label class="toggle-btn" data-mode="heatmap">
+              <input type="radio" name="viz-mode" value="heatmap" /> Heatmap (Chi-Squared)
+            </label>
+          </div>
+
+          <div class="metric-toggles" id="c2-toggles">
+            <div class="metric-group">
+              <span class="control-label">Y-Axis Metric:</span>
+              <label class="toggle-btn active" data-metric="sentiment" data-type="subtitle">
+                <input type="checkbox" checked /> Dialogue Sentiment
+              </label>
+              <label class="toggle-btn" data-metric="density" data-type="subtitle">
+                <input type="checkbox" /> Dialogue Density
+              </label>
+            </div>
+            <div class="metric-group">
+              <span class="control-label">X-Axis Metric:</span>
+              <label class="toggle-btn active" data-metric="brightness" data-type="color">
+                <input type="checkbox" checked /> Scene Brightness
+              </label>
+              <label class="toggle-btn" data-metric="saturation" data-type="color">
+                <input type="checkbox" /> Scene Saturation
+              </label>
+              <label class="toggle-btn" data-metric="hue" data-type="color">
+                <input type="checkbox" /> Scene Hue
+              </label>
+            </div>
+          </div>
+
+          <div class="correlation-display" id="correlation-display">
+            <span class="correlation-label" id="stat-label">Correlation Coefficient (r):</span>
+            <span class="correlation-value" id="correlation-value">-</span>
+          </div>
+        </div>
+      </header>
+
+      <!-- 全宽展示：全片库散点图 -->
+      <div class="viz-wrapper" style="width: 100%;">
+        <div id="c2-loading" class="viz-loading" style="display: none;">Loading dialogue segment data across all films...</div>
+        <div class="fc-viz" data-chart="emotion-sync" style="width: 100%; height: 550px; position: relative;"></div>
+      </div>
+
+      <div class="fc-panel__foot explore-insight" id="c2-insight-footer">
+        In Scatter Plot mode, each dot represents a narrative segment from a film, colored by its average scene color. Toggle different X/Y axis metrics to inspect their Pearson correlation. In Heatmap mode, standard standardized residuals display categorical associations via a Chi-squared test.
+      </div>
+    </article>
+  </div>
+</section>

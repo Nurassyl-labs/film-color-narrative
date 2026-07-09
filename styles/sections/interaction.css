@@ -1,0 +1,572 @@
+/* C. 色彩与剧情交互核心样式表 - Film Color Narrative Part C Styles */
+
+/* 1. Control Bars & Selectors */
+.interaction-controls-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+  padding: 16px 20px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+
+.control-label {
+  font-size: 13px;
+  color: var(--fc-text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  min-width: 80px;
+}
+
+.select-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.explore-select {
+  appearance: none;
+  background: rgba(10, 10, 10, 0.85);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  color: #fff;
+  padding: 8px 36px 8px 16px;
+  border-radius: 20px;
+  font-size: 13px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s ease;
+  min-width: 260px;
+}
+
+.explore-select:hover,
+.explore-select:focus {
+  border-color: var(--fc-accent);
+  box-shadow: 0 0 10px rgba(255, 122, 70, 0.25);
+  background: rgba(15, 15, 15, 0.95);
+}
+
+.select-wrapper::after {
+  content: "▼";
+  font-size: 9px;
+  color: var(--fc-text-soft);
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.quick-core-select {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.core-btn {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--fc-text-soft);
+  padding: 6px 14px;
+  border-radius: 16px;
+  font-size: 12px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.core-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.25);
+  color: #fff;
+}
+
+.core-btn.active {
+  background: linear-gradient(135deg, var(--fc-accent), #f3d987);
+  color: #000;
+  border-color: transparent;
+  font-weight: 600;
+  box-shadow: 0 4px 15px rgba(255, 122, 70, 0.35);
+}
+
+/* 2. Grid Layouts */
+.interaction-layout-grid {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 32px;
+  margin: 32px 0 20px;
+  align-items: stretch;
+}
+
+/* 3. Movie Metadata Card Sidebar */
+.movie-meta-sidebar {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  backdrop-filter: blur(10px);
+}
+
+.poster-container {
+  position: relative;
+  width: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+  aspect-ratio: 2/3;
+}
+
+.movie-poster {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.poster-container:hover .movie-poster {
+  transform: scale(1.08);
+}
+
+.movie-rating-badge {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.85);
+  border: 1px solid rgba(243, 217, 135, 0.3);
+  color: #f3d987;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: bold;
+  backdrop-filter: blur(4px);
+}
+
+.movie-info-details {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  text-align: left;
+}
+
+.movie-info-details h4 {
+  font-size: 16px;
+  color: #fff;
+  margin-bottom: 4px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.movie-meta-item {
+  font-size: 12px;
+  color: var(--fc-text-soft);
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255,255,255,0.04);
+  padding-bottom: 4px;
+}
+
+.movie-meta-item span {
+  color: #fff;
+  font-weight: 500;
+}
+
+/* 4. Visualization Viewport */
+.viz-wrapper {
+  position: relative;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  overflow: hidden;
+}
+
+/* 5. C1 Chapter Details Card */
+.chapter-detail-panel {
+  display: flex;
+  gap: 24px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 24px;
+  margin-top: 16px;
+  align-items: center;
+  backdrop-filter: blur(15px);
+  opacity: 0;
+  transform: translateY(12px);
+  transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.chapter-detail-panel.is-active {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.chapter-color-indicator {
+  width: 48px;
+  height: 48px;
+  border-radius: 14px;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  flex-shrink: 0;
+  transition: all 0.4s ease;
+}
+
+.chapter-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.chapter-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  padding-bottom: 6px;
+}
+
+.chapter-header h4 {
+  font-size: 16px;
+  color: var(--fc-accent-cool);
+  font-weight: 600;
+}
+
+.chapter-time {
+  font-size: 12px;
+  color: var(--fc-text-soft);
+  font-variant-numeric: tabular-nums;
+}
+
+.chapter-summary {
+  font-size: 13px;
+  color: var(--fc-text);
+  line-height: 1.5;
+}
+
+.chapter-stats {
+  display: flex;
+  gap: 16px;
+  margin-top: 6px;
+}
+
+.stat-badge {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  padding: 6px 12px;
+  border-radius: 8px;
+  min-width: 100px;
+}
+
+.badge-label {
+  font-size: 10px;
+  color: var(--fc-text-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.badge-val {
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  font-variant-numeric: tabular-nums;
+}
+
+/* 6. C2 Visual Config Bar */
+.emotion-config-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 20px;
+  padding: 14px 20px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+
+.sync-movie-indicator {
+  font-size: 13px;
+  color: var(--fc-text-soft);
+}
+
+.sync-movie-indicator strong {
+  color: var(--fc-accent-cool);
+  font-weight: 600;
+}
+
+.metric-toggles {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.toggle-btn {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: var(--fc-text-soft);
+  padding: 6px 12px;
+  border-radius: 16px;
+  font-size: 12px;
+  cursor: pointer;
+  user-select: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.3s ease;
+}
+
+.toggle-btn input {
+  display: none;
+}
+
+.toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
+
+.toggle-btn.active {
+  background: rgba(94, 234, 212, 0.15);
+  border-color: rgba(94, 234, 212, 0.5);
+  color: #5eead4;
+}
+
+.toggle-btn[data-metric="density"].active {
+  background: rgba(255, 122, 70, 0.15);
+  border-color: rgba(255, 122, 70, 0.5);
+  color: #ff7a46;
+}
+
+.toggle-btn[data-metric="brightness"].active {
+  background: rgba(250, 219, 20, 0.15);
+  border-color: rgba(250, 219, 20, 0.5);
+  color: #fadb14;
+}
+
+.toggle-btn[data-metric="saturation"].active {
+  background: rgba(198, 120, 221, 0.15);
+  border-color: rgba(198, 120, 221, 0.5);
+  color: #c678dd;
+}
+
+.view-mode-controls {
+  display: flex;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 4px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.mode-btn {
+  background: transparent;
+  color: var(--fc-text-soft);
+  padding: 6px 14px;
+  border-radius: 16px;
+  font-size: 12px;
+  font-weight: 500;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mode-btn:hover {
+  color: #fff;
+}
+
+.mode-btn.active {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+
+/* 7. Live Subtitle Panel Widget */
+.subtitle-live-panel {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  backdrop-filter: blur(10px);
+  justify-content: space-between;
+}
+
+.live-panel-header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  padding-bottom: 8px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.live-time {
+  color: var(--fc-accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.live-subtitle-content {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 120px;
+  padding: 10px;
+}
+
+#c2-subtitle-text {
+  font-size: 14px;
+  color: #fff;
+  line-height: 1.6;
+  text-align: center;
+  font-style: italic;
+  font-family: "Georgia", serif;
+  transition: color 0.3s ease;
+}
+
+#c2-subtitle-text.empty-subtitle {
+  color: var(--fc-text-soft);
+  font-size: 12px;
+  font-family: inherit;
+  font-style: normal;
+}
+
+.live-color-palette {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  border: 1px solid rgba(255,255,255,0.06);
+  padding: 10px;
+  border-radius: 10px;
+  background: rgba(0,0,0,0.3);
+  transition: all 0.4s ease;
+}
+
+.palette-swatch {
+  width: 24px;
+  height: 24px;
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.15);
+  transition: background-color 0.25s ease;
+}
+
+/* 8. Responsiveness */
+@media (max-width: 960px) {
+  .interaction-layout-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .movie-meta-sidebar {
+    flex-direction: row;
+    align-items: center;
+    padding: 16px;
+    gap: 24px;
+  }
+
+  .poster-container {
+    width: 100px;
+  }
+
+  .movie-info-details {
+    flex-grow: 1;
+  }
+
+  .chapter-detail-panel {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+  }
+
+  .chapter-color-indicator {
+    width: 36px;
+    height: 36px;
+  }
+
+  .chapter-stats {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .stat-badge {
+    min-width: 80px;
+  }
+}
+
+/* Metric Group Container */
+.metric-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.metric-group .control-label {
+  color: #888;
+  font-size: 11px;
+  white-space: nowrap;
+  min-width: 100px;
+}
+
+/* Correlation Display */
+.correlation-display {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 18px;
+  background: linear-gradient(135deg, rgba(250, 219, 20, 0.08), rgba(250, 219, 20, 0.02));
+  border: 1px solid rgba(250, 219, 20, 0.25);
+  border-radius: 20px;
+  animation: fadeInUp 0.4s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.correlation-label {
+  color: #aaa;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.correlation-value {
+  font-size: 22px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.5px;
+  text-shadow: 0 0 15px currentColor;
+  transition: color 0.3s ease;
+}
+
+/* C2 Movie Select Group */
+#c2-movie-select-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

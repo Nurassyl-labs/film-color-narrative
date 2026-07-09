@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Film Color Narrative</title>
+    <link rel="stylesheet" href="styles/base.css" />
+    <link rel="stylesheet" href="styles/theme.css" />
+    <link rel="stylesheet" href="styles/layout.css" />
+    <link rel="stylesheet" href="styles/sections/intro.css" />
+    <link rel="stylesheet" href="styles/sections/exploration.css" />
+    <link rel="stylesheet" href="styles/sections/interaction.css" />
+    <link rel="stylesheet" href="styles/sections/reinterpret.css" />
+  </head>
+  <body class="fc-page">
+    <header class="fc-header">
+      <div class="fc-brand">
+        <div class="fc-brand__mark"></div>
+        <div>
+          <p class="fc-brand__eyebrow">Film Color Narrative</p>
+          <h1 class="fc-brand__title">Film Color Narrative</h1>
+        </div>
+      </div>
+      <nav class="fc-nav" aria-label="Main Navigation">
+        <a href="#intro" class="fc-nav__link">A. Intro</a>
+        <a href="#explore-avg" class="fc-nav__link">B. Exploration</a>
+        <a href="#interaction-segments" class="fc-nav__link">C. Interaction</a>
+        <a href="#reinterpret-single" class="fc-nav__link">D. Reinterpretation</a>
+      </nav>
+    </header>
+
+    <main>
+      <div data-include="pages/intro.html"></div>
+      <div data-include="pages/explore-avg.html"></div>
+      <div data-include="pages/explore-stack.html"></div>
+      <div data-include="pages/explore-metrics.html"></div>
+      <div data-include="pages/interaction-segments.html"></div>
+      <div data-include="pages/interaction-emotion.html"></div>
+      <div data-include="pages/reinterpret-single.html"></div>
+      <div data-include="pages/reinterpret-player.html"></div>
+    </main>
+
+    <footer class="fc-footer">
+      <p>Film Color Narrative · Visualization Project</p>
+    </footer>
+
+    <script src="scripts/main.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,255 @@
+/* ============================================
+   D2 - 色彩情绪放映机 (Color-Emotion Player)
+   ============================================ */
+
+/* ---- Player Container ---- */
+.d2-player-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+}
+
+/* ---- Screen Wrapper ---- */
+.d2-screen-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  min-height: 420px;
+  max-height: 600px;
+  border-radius: 18px;
+  overflow: hidden;
+  background: #000;
+  box-shadow:
+    0 0 60px rgba(0,0,0,0.6),
+    inset 0 0 80px rgba(0,0,0,0.4);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.d2-canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* ---- Segment Overlay ---- */
+.d2-segment-overlay {
+  position: absolute;
+  bottom: 60px;
+  left: 24px;
+  right: 24px;
+  text-align: center;
+  pointer-events: none;
+  transition: opacity 0.6s ease;
+}
+
+.d2-segment-title {
+  font-family: "Fraunces", "Noto Serif SC", serif;
+  font-size: clamp(16px, 2vw, 24px);
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.8);
+  margin-bottom: 6px;
+  letter-spacing: 0.03em;
+}
+
+.d2-segment-summary {
+  font-size: clamp(11px, 1.2vw, 14px);
+  color: rgba(255,255,255,0.75);
+  text-shadow: 0 1px 8px rgba(0,0,0,0.7);
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.5;
+}
+
+/* ---- Time Display ---- */
+.d2-time-display {
+  position: absolute;
+  top: 16px;
+  right: 20px;
+  font-family: "Manrope", monospace;
+  font-size: 14px;
+  color: rgba(255,255,255,0.6);
+  background: rgba(0,0,0,0.5);
+  padding: 4px 12px;
+  border-radius: 999px;
+  pointer-events: none;
+  letter-spacing: 0.05em;
+  backdrop-filter: blur(6px);
+}
+
+/* ---- Emotion Indicator ---- */
+.d2-emotion-indicator {
+  position: absolute;
+  top: 16px;
+  left: 20px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(0,0,0,0.5);
+  padding: 4px 14px;
+  border-radius: 999px;
+  pointer-events: none;
+  backdrop-filter: blur(6px);
+}
+
+.d2-emotion-label {
+  font-size: 11px;
+  color: rgba(255,255,255,0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+.d2-emotion-value {
+  font-family: "Manrope", monospace;
+  font-size: 13px;
+  font-weight: 600;
+  transition: color 0.5s ease;
+}
+
+/* ---- Mini Barcode Timeline ---- */
+.d2-mini-barcode-wrapper {
+  position: relative;
+  width: 100%;
+  height: 36px;
+  border-radius: 8px;
+  overflow: hidden;
+  cursor: pointer;
+  background: rgba(0,0,0,0.4);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.d2-mini-barcode {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.d2-scrubber {
+  position: absolute;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  background: #fff;
+  box-shadow: 0 0 8px rgba(255,255,255,0.6);
+  pointer-events: none;
+  transition: left 0.05s linear;
+  z-index: 2;
+}
+
+/* ---- Controls ---- */
+.d2-controls {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.d2-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--fc-accent);
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  border: none;
+  box-shadow: 0 4px 16px rgba(255,122,70,0.3);
+  flex-shrink: 0;
+}
+
+.d2-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 24px rgba(255,122,70,0.45);
+}
+
+.d2-btn--playing {
+  background: var(--fc-accent-cool);
+  box-shadow: 0 4px 16px rgba(94,234,212,0.3);
+}
+
+.d2-btn--playing:hover {
+  box-shadow: 0 6px 24px rgba(94,234,212,0.45);
+}
+
+.d2-btn-icon {
+  line-height: 1;
+}
+
+/* ---- Speed Buttons ---- */
+.d2-speed-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.d2-speed-btn {
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: rgba(255,255,255,0.5);
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: "Manrope", monospace;
+}
+
+.d2-speed-btn:hover {
+  color: #fff;
+  background: rgba(255,255,255,0.12);
+}
+
+.d2-speed-btn.active {
+  color: #fff;
+  background: var(--fc-accent);
+  border-color: var(--fc-accent);
+  box-shadow: 0 2px 8px rgba(255,122,70,0.3);
+}
+
+/* ---- Right Info ---- */
+.d2-info-right {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: rgba(255,255,255,0.5);
+}
+
+.d2-density-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255,255,255,0.4);
+}
+
+.d2-density-bar-track {
+  width: 60px;
+  height: 6px;
+  border-radius: 3px;
+  background: rgba(255,255,255,0.08);
+  overflow: hidden;
+}
+
+.d2-density-bar-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #5eead4, #fadb14, #ff7a46);
+  transition: width 0.3s ease;
+}
+
+.d2-density-text {
+  font-family: "Manrope", monospace;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--fc-accent-cool);
+  min-width: 32px;
+}
+

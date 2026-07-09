@@ -1,0 +1,65 @@
+<section id="reinterpret-player" class="fc-section" data-section>
+  <div class="fc-page-title">D. Reinterpretation - 2</div>
+  <div class="fc-page-shell" data-animate>
+    <article class="fc-panel fc-panel--page">
+      <header class="fc-panel__head">
+        <h3>Revisiting a Movie with the Color-Emotion Player</h3>
+        <p>
+          Find the timeline chart too abstract? Experience the movie via our interactive player instead! The central orb matches the dominant color of the movie in real-time. Surrounding white particles represent dialogue; they expand outward for positive emotions, contract inward for negative ones, and rotate faster when dialogue is dense. The current narrative summary is displayed at the top. Let color and sound play the movie for you!
+        </p>
+        <div class="explore-controls" id="d2-movie-select-group">
+          <span class="control-label">Select Movie:</span>
+          <div class="select-wrapper">
+            <select id="d2-movie-select" class="explore-select">
+              <option value="" disabled selected>Loading movie list...</option>
+            </select>
+          </div>
+        </div>
+      </header>
+
+      <div class="d2-player-container">
+        <div class="d2-screen-wrapper">
+          <canvas id="d2-canvas" class="d2-canvas"></canvas>
+          <div id="d2-segment-overlay" class="d2-segment-overlay">
+            <div id="d2-segment-title" class="d2-segment-title"></div>
+            <div id="d2-segment-summary" class="d2-segment-summary"></div>
+          </div>
+          <div id="d2-time-display" class="d2-time-display">00:00 / 00:00</div>
+          <div id="d2-emotion-indicator" class="d2-emotion-indicator">
+            <span class="d2-emotion-label">Sentiment</span>
+            <span id="d2-emotion-value" class="d2-emotion-value">--</span>
+          </div>
+        </div>
+
+        <div class="d2-mini-barcode-wrapper">
+          <canvas id="d2-mini-barcode" class="d2-mini-barcode"></canvas>
+          <div id="d2-scrubber" class="d2-scrubber"></div>
+        </div>
+
+        <div class="d2-controls">
+          <button id="d2-btn-play" class="d2-btn d2-btn--play" title="Play/Pause">
+            <span class="d2-btn-icon">▶</span>
+          </button>
+          <div class="d2-speed-group">
+            <span class="control-label">Speed:</span>
+            <button class="d2-speed-btn active" data-speed="1">1x</button>
+            <button class="d2-speed-btn" data-speed="2">2x</button>
+            <button class="d2-speed-btn" data-speed="4">4x</button>
+            <button class="d2-speed-btn" data-speed="8">8x</button>
+          </div>
+          <div class="d2-info-right">
+            <span class="d2-density-label">Dialogue</span>
+            <div class="d2-density-bar-track">
+              <div id="d2-density-bar" class="d2-density-bar-fill"></div>
+            </div>
+            <span id="d2-density-text" class="d2-density-text">--</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="fc-panel__foot" id="d2-insight-footer">
+        Select a movie and press Play to see the central orb and dialogue particles shift dynamically with color and sentiment. Adjust playback speed (1x/2x/4x/8x), click the mini barcode timeline to scrub to any timestamp, or press the spacebar to play/pause.
+      </div>
+    </article>
+  </div>
+</section>

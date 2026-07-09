@@ -1,0 +1,40 @@
+:root {
+  --fc-bg: #0b0c10;
+  --fc-bg-soft: #0e0f14;
+  --fc-surface: #000000;
+  --fc-surface-strong: #0a0a0f;
+  --fc-text: #f1f1f1;
+  --fc-text-soft: #b6bac5;
+  --fc-accent: #ff7a46;
+  --fc-accent-strong: #ff3856;
+  --fc-accent-cool: #5eead4;
+  --fc-grid: rgba(255, 255, 255, 0.08);
+  --fc-shadow: rgba(5, 5, 10, 0.55);
+  --fc-radius: 18px;
+}
+
+.fc-page {
+  background:
+    radial-gradient(ellipse at 15% 5%, rgba(255, 122, 70, 0.25) 0%, transparent 50%),
+    radial-gradient(ellipse at 85% 8%, rgba(94, 234, 212, 0.22) 0%, transparent 48%),
+    radial-gradient(ellipse at 50% 15%, rgba(255, 56, 86, 0.20) 0%, transparent 45%),
+    radial-gradient(ellipse at 25% 35%, rgba(139, 92, 246, 0.18) 0%, transparent 42%),
+    radial-gradient(ellipse at 75% 40%, rgba(251, 191, 36, 0.16) 0%, transparent 40%),
+    radial-gradient(ellipse at 45% 65%, rgba(34, 211, 238, 0.15) 0%, transparent 38%),
+    radial-gradient(ellipse at 10% 80%, rgba(244, 114, 182, 0.18) 0%, transparent 45%),
+    radial-gradient(ellipse at 90% 75%, rgba(163, 230, 53, 0.14) 0%, transparent 40%),
+    var(--fc-bg);
+}
+
+.fc-brand__title,
+.fc-section__title {
+  font-family: "Fraunces", "Noto Serif SC", serif;
+  letter-spacing: 0.02em;
+}
+
+.fc-viz,
+.fc-player__screen {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.04), rgba(255, 255, 255, 0.01));
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: 0 20px 40px var(--fc-shadow);
+}

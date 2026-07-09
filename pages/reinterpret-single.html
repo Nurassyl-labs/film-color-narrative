@@ -1,0 +1,76 @@
+<section id="reinterpret-single" class="fc-section" data-section>
+  <div class="fc-page-title">D. Reinterpretation - 1</div>
+  <div class="fc-page-shell" data-animate>
+    <article class="fc-panel fc-panel--page">
+      <header class="fc-panel__head">
+        <h3>Revisiting a Movie Through a Color ECG</h3>
+        <p>
+          Now that we understand how color acts as a narrative medium, let's revisit a familiar film and observe how its visual tones and dialogue metrics evolve in parallel over time.
+        </p>
+
+        <!-- 可视化配置工具栏 -->
+        <div class="emotion-config-bar">
+          <div class="explore-controls" id="d1-movie-select-group">
+            <span class="control-label">Select Movie:</span>
+            <div class="select-wrapper">
+              <select id="d1-movie-select" class="explore-select">
+                <option value="" disabled selected>Loading movie list...</option>
+              </select>
+            </div>
+          </div>
+          
+          <div class="metric-toggles" id="d1-toggles">
+            <div class="metric-group">
+              <span class="control-label">Subtitle Metric:</span>
+              <label class="toggle-btn active" data-metric="sentiment" data-type="subtitle">
+                <input type="checkbox" checked /> Dialogue Sentiment
+              </label>
+              <label class="toggle-btn" data-metric="density" data-type="subtitle">
+                <input type="checkbox" /> Dialogue Density
+              </label>
+            </div>
+            <div class="metric-group">
+              <span class="control-label">Color Metric:</span>
+              <label class="toggle-btn active" data-metric="brightness" data-type="color">
+                <input type="checkbox" checked /> Scene Brightness
+              </label>
+              <label class="toggle-btn" data-metric="saturation" data-type="color">
+                <input type="checkbox" /> Scene Saturation
+              </label>
+              <label class="toggle-btn" data-metric="hue" data-type="color">
+                <input type="checkbox" /> Scene Hue
+              </label>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <!-- 双栏展示：图表 + 电影信息 -->
+      <div class="interaction-layout-grid">
+        <!-- 侧边电影卡片 -->
+        <div class="movie-meta-sidebar" id="d1-movie-meta">
+          <div class="poster-container">
+            <img id="d1-poster" src="assets/posters/tt0133093.jpg" alt="Movie Poster" class="movie-poster" />
+            <div class="movie-rating-badge">★ <span id="d1-rating">8.7</span></div>
+          </div>
+          <div class="movie-info-details">
+            <h4 id="d1-title">The Matrix</h4>
+            <p class="movie-meta-item">Year: <span id="d1-year">1999</span></p>
+            <p class="movie-meta-item">Genre: <span id="d1-genre">Action, Sci-Fi</span></p>
+            <p class="movie-meta-item">Duration: <span id="d1-duration">136 min</span></p>
+          </div>
+        </div>
+
+        <!-- 可视化容器 -->
+        <div class="viz-wrapper" style="position:relative;">
+          <div id="d1-loading" class="viz-loading" style="display: none;">Generating time-series chart...</div>
+          <div class="fc-viz" data-chart="single-film" style="width: 100%; height: 420px; position: relative;"></div>
+        </div>
+      </div>
+
+      <div class="fc-panel__foot explore-insight" id="d1-insight-footer">
+        Use the dropdown menu to select a movie. Check the metrics on the left to overlay subtitle and color timelines (multiple selections allowed). Hover to inspect specific timestamps for exact values and color previews. The band at the bottom displays the complete film color barcode.
+      </div>
+    </article>
+  </div>
+</section>

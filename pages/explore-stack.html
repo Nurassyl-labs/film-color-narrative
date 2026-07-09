@@ -1,0 +1,39 @@
+<section id="explore-stack" class="fc-section" data-section>
+  <div class="fc-page-title">B. Exploration - 2</div>
+  <div class="fc-page-shell" data-animate>
+    <article class="fc-panel fc-panel--page">
+      <header class="fc-panel__head">
+        <h3>The Geological Layers of Time-Dissected Color</h3>
+        <p>To closely examine the composition differences between movie genres, we dissect every color block in the barcodes, stack them together, and arrange them by brightness, saturation, or hue. This builds a "geological layer" representation of visual identity. For example, Animation color bands are visibly brighter and more saturated, while Biographies lean heavily toward warm, muted colors.</p>
+        
+        <div class="explore-controls" id="stack-controls">
+          <div class="control-group">
+            <span class="control-label">Display Mode:</span>
+            <button class="explore-btn mode-btn active" data-mode="metric">Metric Mode</button>
+            <button class="explore-btn mode-btn" data-mode="original">Original Color Mode</button>
+          </div>
+          <div class="control-group" id="metric-sort-group">
+            <span class="control-label">Sort Metric:</span>
+            <button class="explore-btn active" data-sort="brightness">Brightness Dist.</button>
+            <button class="explore-btn" data-sort="saturation">Saturation Dist.</button>
+            <button class="explore-btn" data-sort="hue">Hue Dist.</button>
+          </div>
+          <div class="control-group" id="original-sort-group" style="display: none;">
+            <span class="control-label">Sort Metric:</span>
+            <button class="explore-btn active" data-sort="brightness">By Brightness</button>
+            <button class="explore-btn" data-sort="saturation">By Saturation</button>
+            <button class="explore-btn" data-sort="hue">By Hue</button>
+          </div>
+        </div>
+      </header>
+      
+      <!-- 加载指示器 -->
+      <div id="stack-loading" class="viz-loading">Parsing barcode pixel data...</div>
+      <div class="fc-viz" data-chart="stacked-bars" style="width: 100%; height: 45vh;"></div>
+      
+      <div class="fc-panel__foot explore-insight" id="stack-insight">
+        Toggle "Metric Mode" to check the proportion distributions of brightness, saturation, and hue. Switch to "Original Color Mode" to see the actual color breakdown. Hover over a block to view exact color values and previews.
+      </div>
+    </article>
+  </div>
+</section>
